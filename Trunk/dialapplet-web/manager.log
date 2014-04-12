@@ -1,0 +1,1316 @@
+Trying 192.168.0.65...
+Connected to 192.168.0.65.
+Escape character is '^]'.
+Asterisk Call Manager/1.0
+Response: Success
+Message: Authentication accepted
+
+Event: PeerStatus
+Privilege: system,all
+Peer: SIP/124
+PeerStatus: Registered
+
+Event: PeerStatus
+Privilege: system,all
+Peer: SIP/110
+PeerStatus: Registered
+
+Event: PeerStatus
+Privilege: system,all
+Peer: SIP/113
+PeerStatus: Unreachable
+Time: -1
+
+Event: PeerStatus
+Privilege: system,all
+Peer: SIP/113
+PeerStatus: Reachable
+Time: 11
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/151-0d8d2da8
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168284.1018857
+
+Event: Newcallerid
+Privilege: call,all
+Channel: SIP/151-0d8d2da8
+CallerID: <Unknown>
+CallerIDName: 151_DialApplet
+Uniqueid: 1316168284.1018857
+CID-CallingPres: 0 (Presentation Allowed, Not Screened)
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/151-0d8d2da8
+State: Ringing
+CallerID: <unknown>
+CallerIDName: 151_DialApplet
+Uniqueid: 1316168284.1018857
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: comercial
+Location: SIP/151
+Membership: dynamic
+Penalty: 0
+CallsTaken: 1
+LastCall: 1316168013
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: support
+Location: SIP/151
+Membership: dynamic
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberPaused
+Privilege: agent,all
+Queue: comercial
+Location: SIP/151
+Paused: 1
+
+Event: QueueMemberPaused
+Privilege: agent,all
+Queue: support
+Location: SIP/151
+Paused: 1
+
+Event: Newstate
+Privilege: call,all
+Channel: SIP/151-0d8d2da8
+State: Up
+CallerID: <unknown>
+CallerIDName: 151_DialApplet
+Uniqueid: 1316168284.1018857
+
+Event: OriginateSuccess
+Privilege: call,all
+ActionID: DialApplet-228320437-PowerDialer-74577
+Channel: SIP/151
+Context: desarollo
+Exten: 963814315
+Reason: 4
+Uniqueid: 1316168284.1018857
+
+Event: Cdr
+Privilege: call,all
+AccountCode: 
+Source: 
+Destination: 963814315
+DestinationContext: desarollo
+CallerID: 151_DialApplet
+Channel: SIP/151-0d8d2da8
+DestinationChannel: 
+LastApplication: 
+LastData: 
+StartTime: 2011-09-16 12:18:06
+AnswerTime: 
+EndTime: 2011-09-16 12:18:06
+Duration: 0
+BillableSeconds: 0
+Disposition: ANSWERED
+AMAFlags: DOCUMENTATION
+UniqueID: 1316168284.1018857
+UserField: 
+
+Event: Hangup
+Privilege: call,all
+Channel: SIP/151-0d8d2da8
+Uniqueid: 1316168284.1018857
+Cause: 16
+Cause-txt: Normal Clearing
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: comercial
+Location: SIP/151
+Membership: dynamic
+Penalty: 0
+CallsTaken: 1
+LastCall: 1316168013
+Status: 1
+Paused: 1
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: support
+Location: SIP/151
+Membership: dynamic
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 1
+Paused: 1
+
+Event: QueueMemberPaused
+Privilege: agent,all
+Queue: comercial
+Location: SIP/151
+Paused: 0
+
+Event: QueueMemberPaused
+Privilege: agent,all
+Queue: support
+Location: SIP/151
+Paused: 0
+
+Event: Newchannel
+Privilege: call,all
+Channel: Zap/14-1
+State: Ring
+CallerID: 958246410
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018858
+
+Event: Newexten
+Privilege: call,all
+Channel: Zap/14-1
+Context: entrada
+Extension: 962063847
+Priority: 1
+Application: Goto
+AppData: entrada_c4hiper|s|1
+Uniqueid: 1316168290.1018858
+
+Event: Newexten
+Privilege: call,all
+Channel: Zap/14-1
+Context: entrada_c4hiper
+Extension: s
+Priority: 1
+Application: GotoIfTime
+AppData: 06:00-08:29|*|*|*?entrada_contestador|s|1
+Uniqueid: 1316168290.1018858
+
+Event: Newexten
+Privilege: call,all
+Channel: Zap/14-1
+Context: entrada_c4hiper
+Extension: s
+Priority: 2
+Application: Ringing
+AppData: 
+Uniqueid: 1316168290.1018858
+
+Event: Newstate
+Privilege: call,all
+Channel: Zap/14-1
+State: Ringing
+CallerID: 958246410
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018858
+
+Event: Newexten
+Privilege: call,all
+Channel: Zap/14-1
+Context: entrada_c4hiper
+Extension: s
+Priority: 3
+Application: NoOp
+AppData: ------ Entrada a c4hiper desde 958246410------
+Uniqueid: 1316168290.1018858
+
+Event: Newexten
+Privilege: call,all
+Channel: Zap/14-1
+Context: entrada_c4hiper
+Extension: s
+Priority: 4
+Application: Set
+AppData: DESVIO=1
+Uniqueid: 1316168290.1018858
+
+Event: Newexten
+Privilege: call,all
+Channel: Zap/14-1
+Context: entrada_c4hiper
+Extension: s
+Priority: 5
+Application: GotoIf
+AppData: 0?completo|1
+Uniqueid: 1316168290.1018858
+
+Event: Newexten
+Privilege: call,all
+Channel: Zap/14-1
+Context: entrada_c4hiper
+Extension: s
+Priority: 6
+Application: GotoIf
+AppData: 0?movil|1
+Uniqueid: 1316168290.1018858
+
+Event: Newexten
+Privilege: call,all
+Channel: Zap/14-1
+Context: entrada_c4hiper
+Extension: s
+Priority: 7
+Application: GotoIf
+AppData: 0?s|11
+Uniqueid: 1316168290.1018858
+
+Event: Newexten
+Privilege: call,all
+Channel: Zap/14-1
+Context: entrada_c4hiper
+Extension: s
+Priority: 8
+Application: GotoIfTime
+AppData: 14:20-23:59|sun|*|*?movil|1
+Uniqueid: 1316168290.1018858
+
+Event: Newexten
+Privilege: call,all
+Channel: Zap/14-1
+Context: entrada_c4hiper
+Extension: s
+Priority: 9
+Application: GotoIfTime
+AppData: 00:00-01:00|mon|*|*?movil|1
+Uniqueid: 1316168290.1018858
+
+Event: Newexten
+Privilege: call,all
+Channel: Zap/14-1
+Context: entrada_c4hiper
+Extension: s
+Priority: 10
+Application: Set
+AppData: FESTIVO=0
+Uniqueid: 1316168290.1018858
+
+Event: Newexten
+Privilege: call,all
+Channel: Zap/14-1
+Context: entrada_c4hiper
+Extension: s
+Priority: 11
+Application: GotoIf
+AppData: 0?festivo|1
+Uniqueid: 1316168290.1018858
+
+Event: Newexten
+Privilege: call,all
+Channel: Zap/14-1
+Context: entrada_c4hiper
+Extension: s
+Priority: 12
+Application: NoOp
+AppData: --------- Entrada c4hiper ----------
+Uniqueid: 1316168290.1018858
+
+Event: Newexten
+Privilege: call,all
+Channel: Zap/14-1
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+Application: Queue
+AppData: Cola|tT|||60
+Uniqueid: 1316168290.1018858
+
+Event: Join
+Privilege: call,all
+Channel: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Queue: Cola
+Position: 1
+Count: 1
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/100
+Membership: static
+Penalty: 0
+CallsTaken: 6
+LastCall: 1315557955
+Status: 5
+Paused: 0
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/101-0d8d2da8
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018859
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/101
+Membership: static
+Penalty: 0
+CallsTaken: 36
+LastCall: 1316166464
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/101
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/102-0d941768
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018860
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/102
+Membership: static
+Penalty: 0
+CallsTaken: 54
+LastCall: 1316165732
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/102
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/103-0d8bcca8
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018861
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/103
+Membership: static
+Penalty: 0
+CallsTaken: 160
+LastCall: 1316163756
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/103
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/104-0d8bf8c8
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018862
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/104
+Membership: static
+Penalty: 0
+CallsTaken: 85
+LastCall: 1316161600
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/104
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/105-0d8e8880
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018863
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/105
+Membership: static
+Penalty: 0
+CallsTaken: 188
+LastCall: 1316166126
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/105
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/106-0d8eddc0
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018864
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/106
+Membership: static
+Penalty: 0
+CallsTaken: 462
+LastCall: 1316165592
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/106
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/107
+Membership: static
+Penalty: 0
+CallsTaken: 203
+LastCall: 1315830749
+Status: 5
+Paused: 0
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/109-0d8f3300
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018865
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/109
+Membership: static
+Penalty: 0
+CallsTaken: 166
+LastCall: 1316165160
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/109
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/110-0d824ba0
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018866
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/110
+Membership: static
+Penalty: 0
+CallsTaken: 1365
+LastCall: 1316122364
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/110
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/111-0d82a0e0
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018867
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/111
+Membership: static
+Penalty: 0
+CallsTaken: 479
+LastCall: 1316122495
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/111
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/113-0d82f620
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018868
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/113
+Membership: static
+Penalty: 0
+CallsTaken: 571
+LastCall: 1315999404
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/113
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/114
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 5
+Paused: 0
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/115-0d889ba0
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018869
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/115
+Membership: static
+Penalty: 0
+CallsTaken: 696
+LastCall: 1316109612
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/115
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/116
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 5
+Paused: 0
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/117-0d88f0e0
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018870
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/117
+Membership: static
+Penalty: 0
+CallsTaken: 73
+LastCall: 1316166381
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/117
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/118-0d894620
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018871
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/118
+Membership: static
+Penalty: 0
+CallsTaken: 198
+LastCall: 1316167732
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/118
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/119-0d899b60
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018872
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/119
+Membership: static
+Penalty: 0
+CallsTaken: 193
+LastCall: 1316120125
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/119
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/120
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 5
+Paused: 0
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/122-0d91e298
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018873
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/122
+Membership: static
+Penalty: 0
+CallsTaken: 87
+LastCall: 1316167483
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/122
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/123-0d9237d8
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018874
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/123
+Membership: static
+Penalty: 0
+CallsTaken: 173
+LastCall: 1315690572
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/123
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/124-0d928d18
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018875
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/124
+Membership: static
+Penalty: 0
+CallsTaken: 1629
+LastCall: 1316168152
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/124
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/125-0d92e258
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018876
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/125
+Membership: static
+Penalty: 0
+CallsTaken: 375
+LastCall: 1316082063
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/125
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/126-0d933798
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018877
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/126
+Membership: static
+Penalty: 0
+CallsTaken: 257
+LastCall: 1316168032
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/126
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/127-0d938cd8
+State: Down
+CallerID: <unknown>
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018878
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/127
+Membership: static
+Penalty: 0
+CallsTaken: 103
+LastCall: 1316167796
+Status: 0
+Paused: 0
+
+Event: AgentCalled
+Privilege: agent,all
+AgentCalled: SIP/127
+ChannelCalling: Zap/14-1
+CallerID: 958246410
+CallerIDName: unknown
+Context: entrada_c4hiper
+Extension: s
+Priority: 13
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/109-0d8f3300
+State: Ringing
+CallerID: 958246410
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018865
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/125-0d92e258
+State: Ringing
+CallerID: 958246410
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018876
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_madrugada
+Location: SIP/109
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_movil_tef
+Location: SIP/109
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_contestador
+Location: SIP/109
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/109
+Membership: static
+Penalty: 0
+CallsTaken: 166
+LastCall: 1316165160
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_contestador
+Location: SIP/125
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/125
+Membership: static
+Penalty: 0
+CallsTaken: 375
+LastCall: 1316082063
+Status: 6
+Paused: 0
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/113-0d82f620
+State: Ringing
+CallerID: 958246410
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018868
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/111-0d82a0e0
+State: Ringing
+CallerID: 958246410
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018867
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/102-0d941768
+State: Ringing
+CallerID: 958246410
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018860
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_contestador
+Location: SIP/113
+Membership: static
+Penalty: 0
+CallsTaken: 1
+LastCall: 1314944983
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/113
+Membership: static
+Penalty: 0
+CallsTaken: 571
+LastCall: 1315999404
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_madrugada
+Location: SIP/111
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_contestador
+Location: SIP/111
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/111
+Membership: static
+Penalty: 0
+CallsTaken: 479
+LastCall: 1316122495
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_madrugada
+Location: SIP/102
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_movil_tef
+Location: SIP/102
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_contestador
+Location: SIP/102
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/102
+Membership: static
+Penalty: 0
+CallsTaken: 54
+LastCall: 1316165732
+Status: 6
+Paused: 0
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/105-0d8e8880
+State: Ringing
+CallerID: 958246410
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018863
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/123-0d9237d8
+State: Ringing
+CallerID: 958246410
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018874
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/101-0d8d2da8
+State: Ringing
+CallerID: 958246410
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018859
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/115-0d889ba0
+State: Ringing
+CallerID: 958246410
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018869
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/118-0d894620
+State: Ringing
+CallerID: 958246410
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018871
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/127-0d938cd8
+State: Ringing
+CallerID: 958246410
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018878
+
+Event: Newchannel
+Privilege: call,all
+Channel: SIP/117-0d88f0e0
+State: Ringing
+CallerID: 958246410
+CallerIDName: <unknown>
+Uniqueid: 1316168290.1018870
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_madrugada
+Location: SIP/105
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_movil_tef
+Location: SIP/105
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_contestador
+Location: SIP/105
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/105
+Membership: static
+Penalty: 0
+CallsTaken: 188
+LastCall: 1316166126
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_contestador
+Location: SIP/123
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola
+Location: SIP/123
+Membership: static
+Penalty: 0
+CallsTaken: 173
+LastCall: 1315690572
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_madrugada
+Location: SIP/101
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatus
+Privilege: agent,all
+Queue: Cola_movil_tef
+Location: SIP/101
+Membership: static
+Penalty: 0
+CallsTaken: 0
+LastCall: 0
+Status: 6
+Paused: 0
+
+Event: QueueMemberStatu

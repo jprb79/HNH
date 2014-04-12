@@ -1,0 +1,126 @@
+/* Tabla principal */
+.tabla-principal {
+	margin-top: 8px;
+	width: 100%;
+	font-size: 9pt;
+	border-collapse: collapse;
+	background-image: url(../imagenes/marca-agua.png);
+	background-repeat: no-repeat;
+	background-position: bottom right;
+}
+
+#status_cell{
+	width:15%;
+	font-weight: bold;
+	padding:5px;
+	margin:0px;
+	vertical-align:baseline;
+	display:table-cell;
+}
+
+#status_cell a{
+	display:table-row-group;
+}
+#contenido .h1,
+.tabla-principal thead {
+	background-color: #faaa00;
+}
+
+#contenido .h1,
+.tabla-principal thead tr {
+	background-image: url(../imagenes/sombra-superior-actividad.png);
+	background-position: top left;
+	background-repeat: repeat-x;
+}
+
+.tabla-principal th {
+	height: 40px;
+	padding-top: 12px;
+	color: white;
+	text-shadow: #6a644a 0px 0px 5px;
+	background-repeat: no-repeat;
+}
+
+.tabla-principal th a,
+.tabla-principal th a:visited {
+	display: block;
+	width: 100%;
+	color: white;
+}
+
+.tabla-principal th a.ascendente,
+.tabla-principal th a.descendente {
+	background-position: center right;
+	background-repeat: no-repeat;
+}
+
+.tabla-principal th a.ascendente {
+	background-image: url(../imagenes/orden-ascendente.png);
+}
+
+.tabla-principal th a.descendente {
+	background-image: url(../imagenes/orden-descendente.png);
+}
+
+.tabla-principal tr.impar {
+	background-color: #fff9ec;
+}
+
+.tabla-principal td,
+.tabla-principal td a {
+	color: #6a644a;
+	padding: 5px;
+}
+
+#monitoring #campaign {
+	background-image: url(../imagenes/actividad-thead-izquierdo.png);
+	background-position: top left;
+	padding-left: 10px;
+}
+
+#monitoring #error {
+	background-image: url(../imagenes/actividad-thead-derecho.png);
+	background-position: top right;
+	padding-right: 10px;
+}
+
+#monitoring2 #disponibles {
+	background-image: url(../imagenes/actividad-thead-izquierdo.png);
+	background-position: top left;
+	padding-left: 10px;
+}
+
+#monitoring2 #dm {
+	background-image: url(../imagenes/actividad-thead-derecho.png);
+	background-position: top right;
+	padding-right: 10px;
+}
+
+#monitoringC #campaign {
+	background-image: url(../imagenes/actividad-thead-izquierdo.png);
+	background-position: top left;
+	padding-left: 10px;
+}
+
+#monitoringC #dm {
+	background-image: url(../imagenes/actividad-thead-derecho.png);
+	background-position: top right;
+	padding-right: 10px;
+}
+
+#monitoring,#monitoring2,#monitoringC
+{
+	font-size: 8pt;
+}
+
+#dashboard_s #type {
+	background-image: url(../imagenes/actividad-thead-izquierdo.png);
+	background-position: top left;
+	padding-left: 10px;
+}
+
+#dashboard_s #tendencia {
+	background-image: url(../imagenes/actividad-thead-derecho.png);
+	background-position: top right;
+	padding-left: 10px;
+}

@@ -1,0 +1,99 @@
+@CHARSET "UTF-8";
+
+.logo
+{	
+	float: left;
+}
+
+#titulo
+{
+	
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	font-family: Verdana, helvetica, sans-serif;
+}
+
+
+#subtitulo
+{	
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	font-family: verdana, helvetica, sans-serif;
+}
+
+p.descripcion-leyenda
+{
+	margin-top: 4em;
+	margin-bottom: 0em;
+	text-align: center;
+}
+
+.tabla_mensual_excel
+{
+	text-align: left;
+    letter-spacing: normal;
+	word-spacing: normal;
+	background-color: #D1EDFF;
+	width:80%;
+}
+.tabla_informe_tarificador
+{
+    font-size: 12px;
+    font-weight:bold;
+    text-align:left;
+    width:80%;
+    margin-top: 4em;
+}
+
+.tabla_mensual_excel100
+{
+	text-align: left;
+    letter-spacing: normal;
+	word-spacing: normal;
+	background-color: #D1EDFF;
+	width:100%;
+}
+
+.mensual_excel_negrita
+{
+	color:#000000;
+	font: 100% verdana, helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+}
+
+.mensual_excel_negrita_grande
+{
+	color:#000000;
+	font: 100% verdana, helvetica, sans-serif;
+	font-size:15px;
+	font-weight:bold;
+}
+
+.mensual_excel_pequeño
+{
+        color:#000000;
+	font: 100% verdana, helvetica, sans-serif;
+	font-size:12px;
+	text-align: center;
+}
+.td_blanco
+{
+	text-align: left;
+    letter-spacing: normal;
+	word-spacing: normal;
+	background-color: #FFFFFF;
+}
+
+.mensual_excel
+{
+	color:#000000;
+	font: 100% verdana, helvetica, sans-serif;
+	font-size:10px;
+}
+
+#TableTitlePi{
+	text-align: center;
+}

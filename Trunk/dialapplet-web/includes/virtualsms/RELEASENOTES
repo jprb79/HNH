@@ -1,0 +1,216 @@
+--------------------------------------------------------------------------------
+2011/07/15 version 2.1.3
+--------------------------------------------------------------------------------
+
+- Se han modificado los metodos checkall y checknetwork de la clase sincrona
+- Se ha solucionado un bug en sendSMS, ahora se controla el tipo de SMS en los
+  envios multiples con un solo texto.
+
+--------------------------------------------------------------------------------
+2011/06/21 version 2.1.2
+--------------------------------------------------------------------------------
+
+- Se han modificado los SUBMIT, ENVIA y WAPLINK para que envien sin mt_id
+  o sea, acepta que el parametro $idEnvio sea la cadena vacia
+
+- Se han modificado los SUBMIT para que devuelven un error si el texto o los
+  destinos estan vacios. En VirtualSMS se lanza el evento reply
+
+- Se han implementado mas ejmplos de uso
+
+
+--------------------------------------------------------------------------------
+2011/04/06 version 2.1.1
+--------------------------------------------------------------------------------
+
+- Se han corregido los comandos ENVIA con custum_cert
+
+--------------------------------------------------------------------------------
+2011/04/05 version 2.1
+--------------------------------------------------------------------------------
+
+- Se han añadido los opcionales cert_name y cert_name_id
+- Se ha modificado el metodo acuseOnCertifiedSMS()
+- Se ha añadido en los metodos de envio:
+  $idEnvio = str_replace(array("\n", "\r", ":", " ", "(", ")"), "", trim($idEnvio));
+
+--------------------------------------------------------------------------------
+2011/03/28 version 2.0.14.5
+--------------------------------------------------------------------------------
+
+- Se ha corregido el metodo privado rebutNOOK()
+- Se ha modificado el metodo privado completeTrans()
+- Se han añadido las constantes:
+  SMSMASS_NOOK_INVALID_DATE
+  SMSMASS_NOOK_INVALID_TRANS
+  SMSMASS_NOOK_TRANS
+
+--------------------------------------------------------------------------------
+2011/03/10 version 2.0.14.4
+--------------------------------------------------------------------------------
+
+- Se ha corregido un error en el metodo setMailDeliveryReceipt de la clase UserProperties
+
+--------------------------------------------------------------------------------
+2011/03/07 version 2.0.14.3
+--------------------------------------------------------------------------------
+
+- Se ha añadido el 'return SMSMASS_OK;' al comando PING de la clase SimpleSMS
+
+--------------------------------------------------------------------------------
+2011/02/09 version 2.0.14.2
+--------------------------------------------------------------------------------
+
+- Se ha corregido un error en los eventos incomingmo y deliveryReceipt; array_slice
+
+--------------------------------------------------------------------------------
+2011/02/01 version 2.0.14.1
+--------------------------------------------------------------------------------
+
+- Se ha añadido la cte SMSMASS_NOOK_URL_NOT_FOUND
+- Se ha implementado la clase SincronSMS, esta clase esta pensada para conexiones sincronas
+- Se ha modificado la clase userproperties.php
+- Se ha eliminado el metodo replacestr y charat
+
+--------------------------------------------------------------------------------
+2011/01/10 version 2.0.14
+--------------------------------------------------------------------------------
+- Ahora los idEnvio de los metodos de envio son los MTID
+- Se ha añadido el comando ACUSEMMS
+- Se ha añadido el metodo serviceUnavailable() en la clase Events
+- Se han modificado los metodos ereg por los PCRE
+- Se ha modificado el sistema de ACUSES INTERNAL de forma transparente a INTERNALID
+- Se ha optimizado el array de comandos guardados
+- Se ha optimizado el metodo getValidNumber()
+- Se ha optimizado el sistema de gestion de los REJDST en los envios multiples
+- Se ha corregido un error en el metodo doWapLinkTrans en SimpleSMS
+- Se ha corregido un error en el metodo sendSMS que afectaba a los sms programados
+- Se ha quitado el useelp(400) en el getCredits()
+- Se ha quitado el setAllowAnswer(false) del metodo setCustomizedSender en SimpleSMS
+- Se delega el debug a la clase ProtocolProperties para VirtualSMS
+
+--------------------------------------------------------------------------------
+2010/02/13 version 2.0.13
+--------------------------------------------------------------------------------
+- Se ha añadido el ACK a los INCOMINGMMS
+- Se ha añadido el metodo isLogged() e isConnected()
+- Se han encapsulado los metodos privados
+- Se ha corregido el comando REJDST y el evento reply
+- Se ha modificado el metodo disconnect()
+- Se ha modificado el metodo sendMSG()
+- Se ha modificado el metodo sendWapLink()
+- Se ha modificado el metodo replaceChars() de la clase UserProperties
+- Se han modificado los valores de los RETURNS por los que toca en cada caso
+  estan definidos en Constants.php
+
+--------------------------------------------------------------------------------
+2009/12/02 version 2.0.12
+--------------------------------------------------------------------------------
+- Se ha añadido el control isQuit para controlar el disconnect()
+- Se ha modificado la constructura de la clase logger
+- Se ha modificado el metodo parseCommand())
+- Se ha modificado el metodo setCustomizedSender()
+- Se ha añadido el nombre del usuario al registrar el comando LOGIN
+- Se ha añadido la clase PDOConfig para configurar conexiones con BBDD
+
+--------------------------------------------------------------------------------
+2009/05/06 version 2.0.11
+--------------------------------------------------------------------------------
+- Se han mejorado los metodos de la clase SimpleSMS:
+  - connect() Se han puesto comentarios
+  - acuseOnCertifiedSMS() Se ha añadido un parametro, el tipo de certificado
+  - fireError() siempre devolvera -1, antes podia devolver 1
+  - Se han quitado los comandos PREMIUM
+  - Se ha solucionado un BUG en rebutNOOK() Ahora connect() retorna -1.
+  - Se ha modificado el contador de comandos de 0 a 800
+  - Se ha dejado preparado el codigo para activar los ACK de los incoming
+  - Se ha mejorado la forma de llamar a setCredit(floatval($split[2].'.'.$split[3]))
+  - Se modificado el metodo enviarDadesTCP()
+
+- Se ha modificado la clase Socket4 en concreto el metodo getData(), ahora
+  detecta el Sistema Operativo y si es Windows configura los Socket correctamente.
+- Se ha modificado la clase Logger levemente el texto del log
+- Se han solucionado una serie de BUGs en la clase VirtualSMS
+- Se ha añadido el metodo sendMMSMSG($idEnvio, $recipients, $mms)
+  El parametro $mms debe de estar codificado en base64
+
+--------------------------------------------------------------------------------
+2008/08/13 version 2.0.10
+--------------------------------------------------------------------------------
+- Se ha añadido un control de "PING TIMEOUT"
+- Se ha solucionado un BUG en getCredits()
+- Se ha solucionado un BUG en los eventos. No se retornaba el texto completo
+
+--------------------------------------------------------------------------------
+2008/05/30 version 2.0.9
+--------------------------------------------------------------------------------
+- Se han modificado los == por >= de los comandos con parametros variables
+- Se han añadido el evento price() comando RTARIFA
+- Se han añadido comentarios referentes a los comandos
+  usados en la clase events.
+
+--------------------------------------------------------------------------------
+2008/03/11 version 2.0.8
+--------------------------------------------------------------------------------
+
+- Se ha añadido un ejemplo mas. El fichero es enviasms.php
+
+--------------------------------------------------------------------------------
+2008/02/25 version 2.0.8
+--------------------------------------------------------------------------------
+
+- Se ha resuelto un problema con la clase logger y los MMS
+- Se ha resuelto el comando OK sin credito. Envio de MMS y
+  envios multiples (DST/ENVIA)
+- Se han mejorado metodos de las diferentes clases socket
+- Se ha resuelto el metodo acuseOnCertifiedSMS en virtualsms
+- Se han quitado los controles de formato del timestamp
+  por ejemplo: ereg("[0-9]{12}", $plit[3])
+- Se han añadido controles de valores a las clases poperties
+  ahora se hace un trim() de los nuevos valores.
+- Se ha añadido una variable para identificar si se ha
+  realizado un login correcto, o no.
+
+--------------------------------------------------------------------------------
+2008/02/08 version 2.0.7
+--------------------------------------------------------------------------------
+
+- Se ha resuelto un problema con los string (' por ")
+- Se han modificado los sockets, ahora hay soporte para
+  PHP5 con descriptores de ficheros
+
+﻿-------------------------------------------------------------------------------
+2008/02/01 version 2.0.6
+--------------------------------------------------------------------------------
+
+- Se han modificado el fichero lib/logger.php
+- Se han modificado las llamadas a metodos con paso de
+  referencia (allow_call_time_pass_reference)
+
+--------------------------------------------------------------------------------
+2007/12/18 version 2.0.5
+--------------------------------------------------------------------------------
+
+- Se han modificado el fichero lib/socket.php
+- Se ha modificado la clase virtualsms.php
+- Se han modificado los ficheros de test
+
+--------------------------------------------------------------------------------
+2007/10/30 version 2.0.4
+--------------------------------------------------------------------------------
+
+- Se ha revisado el codigo
+- Se ha añadido la llamada ob_implicit_flush(); en la clase
+  socket.php para realizar el flush() del buffer.
+
+--------------------------------------------------------------------------------
+2007/10/30 version 2.0.3
+--------------------------------------------------------------------------------
+
+- Se han añadido los SMS de texto certificado
+  Idiomas validos: 'ES', 'EN', 'FR', 'CA'
+
+--------------------------------------------------------------------------------
+API-x.y.z-php
+Envien Sugerencias, reporte de bugs, etc.: devel@lleida.net
+--------------------------------------------------------------------------------

@@ -1,0 +1,42 @@
+﻿-----------------------------------------------------------
+API-x.y.z-php
+-----------------------------------------------------------
+
+Es una librería para la creación de páginas web con PHP 4 o
+superior con funciones de mensajería SMS/MMS a través de la
+Pasarela  Avanzada de  Mensajería (PAM)  de  Lleidanetworks
+Serveis Telemàtics, SL.
+
+Incluye la implementación del protocolo de comunicaciones de
+SMS MASIVO, para el envío masivo de mensajes de texto SMS y
+MMS, así como enlaces WAP y contenidos WAP-PUSH.
+
+Contenido:
+
+lib/logger.php - Para realizar el log
+
+lib/constants.php - Constantes del protocolo
+
+lib/socket.php - Classe que realiza la conexion por socket
+lib/socket-php4 - Classe con sockets propiamente dicho
+lib/socket-php5 - Classe con descriptores de fichero
+lib/socket-const.php - Constantes para las 3 clases anteriores
+
+lib/bulksend.php - Gestiona los envios multiples
+
+lib/protocolproperties.php - Propiedades del protocolo
+lib/userproperties.php - Propiedades del usuario de SMS
+
+lib/pdoconfig.php - Para configurar conexiones con BBDD
+
+test/ - Carpeta con los test
+
+doc/  - Documentacion
+
+events.php - Captura los eventos, debes de extenderla!
+
+vconfig.php - Configuracion de flags de activacion
+
+virtualsms.php - Classe
+
+

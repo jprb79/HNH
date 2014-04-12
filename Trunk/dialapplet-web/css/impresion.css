@@ -1,0 +1,159 @@
+#encabezado {
+	height: auto;
+	background: none;
+}
+
+#superior-izquierda,
+#superior-derecha {
+	display: none;
+}
+
+#seccion,
+#fecha-seleccionada {
+	position: static;
+	color: black;
+	top: 0px;
+}
+
+#seccion {
+	float: left;
+}
+
+#fecha-seleccionada {
+	float: right;
+}
+
+#filtros,
+#linea,
+#pasar-pagina {
+	display: none;
+}
+
+#contenido {
+	clear: both;
+	margin: 1cm;
+}
+
+#actividad {
+	border-left: 1px solid black;
+	border-top: 1px solid black;
+}
+
+#actividad img {
+	display: none;
+}
+
+#actividad th,
+#actividad td {
+	border-right: 1px solid black !important;
+	border-bottom: 1px solid black;
+	text-shadow: none;
+	color: black;
+}
+
+#total-horas {
+	margin: 5mm 0cm 0cm 0cm;
+	border-top: 0px none;
+	font-size: 9pt;
+}
+
+
+/* ESTILOS INFORMES IMPRESION */
+.logo
+{
+	float: left;
+}
+
+
+#titulo
+{
+	margin-top: 300pt;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+
+#subtitulo
+{
+	margin-top: 100pt;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+.saltopagina 
+{
+   page-break-after: always;
+}
+
+#indice 
+{
+	margin-top: 100pt;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+	font-family: Verdana, Helvetica, sans-serif;
+}
+
+#encabezado
+{
+	font-size: 10pt;
+	font-weight: bold;
+	text-align: center;
+}
+
+p.descripcion-leyenda
+{
+	margin-top: 4em;
+	margin-bottom: 0em;
+	text-align: center;
+}
+
+
+.tabla_mensual_excel
+{
+	text-align: left;
+    letter-spacing: normal;
+	word-spacing: normal;
+	background-color: #D1EDFF;
+	width:80%;
+}
+
+.tabla_mensual_excel100
+{
+	text-align: left;
+    letter-spacing: normal;
+	word-spacing: normal;
+	background-color: #D1EDFF;
+	width:100%;
+}
+
+.mensual_excel_negrita
+{
+	color:#000000;
+	font: 100% verdana, helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+}
+
+.td_blanco
+{
+	text-align: left;
+    letter-spacing: normal;
+	word-spacing: normal;
+	background-color: #FFFFFF;
+}
+
+.mensual_excel
+{
+	color:#000000;
+	font: 100% verdana, helvetica, sans-serif;
+	font-size:10px;
+}
+
+
+
+/*FIN ESTILOS INFORMES IMPRESIÓN*/

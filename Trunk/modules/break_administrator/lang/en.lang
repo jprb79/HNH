@@ -1,0 +1,32 @@
+<?php
+
+global $arrLangModule;
+$arrLangModule=array(
+"Name Break" => "Tên",
+"Description Break" => "Mô tả",
+"New Break" => "Thêm mới",
+"View Break" => "Xem",
+"Edit Break" => "Sửa",
+"Active" => "Hoạt động",
+"Inactive" => "Không hoạt động",
+"Breaks List" => "Danh sách tạm nghỉ",
+"Name Break" => "Tên",
+"Description Break" => "Mô tả",
+"Create New Break" => "Tạo mới",
+"Error when Activating the Break" => "Lỗi khi kích hoạt",
+"Activate Error" => "Lỗi kích hoạt", //Bruno agrego
+"Break ID is not valid" => "ID không đúng",
+"Name Break can't be empty" => "Tên không được trống",
+"Name Break already exists" => "Tên đã tồn tại",
+"Id Break is empty" => "ID trống",
+"Desactivate Error" => "Lỗi khi không kích hoạt", //Bruno agrego
+"Error when desactivating the Break" => "Lỗi khi không kích hoạt",
+"Desactivate"=>"Không kích hoạt",
+"Activate"=>"Kích hoạt",
+"Status"=>"Trạng thái",
+"Options"=>"Chọn",
+"Cancel"=>"Hủy bỏ",
+"Save"=>"Lưu",
+);
+
+?>

@@ -1,0 +1,33 @@
+<?php
+global $arrLangModule; 
+ $arrLangModule = array(
+'List Break'     => "Danh sách tạm nghỉ",
+'agent'          => "Tổng đài viên",
+'break'          => "Loại tạm nghỉ",
+'time_init'      => "Giờ bắt đầu",
+'time_end'       => "Giờ kết thúc",
+'duration'       => "Thời lượng",
+"Name"           => "Tên",
+'Reports Break'  => "Báo cáo tạm nghỉ",
+'Agent Name'     => "Tên tổng đài viên",
+'Break'          => "Tạm nghỉ",
+'query'          => "Tìm",
+"Start Date"    => "Ngày bắt đầu",
+"End Date"      => "Ngày kết thúc",
+'generate file'  => "Tạo tập tin",
+'Agent Number'   => "Số máy nhánh",
+'Total'          => "Tổng",
+"Error"                                      => "Lỗi",
+"Warning"                                    => "Cảnh báo",
+"Error when connecting to database"          => "Lỗi khi kết nối dữ liệu",
+"Error when creating object paloSantoReportsBreak" => "Lỗi khi tạo báo cáo",
+"Error cargando listado de tipos de breaks"  => "Lỗi khi load danh sách",
+"Error cargando listado de agentes"          => "Lỗi khi load danh sách tổng đài viên",
+"Error cargando listado de breaks tomados"   => "Lỗi khi load danh sách",
+"Debe ingresar una fecha"                    => "Phải nhập ngày",
+"Debe ingresar una fecha valida"             => "Phải nhập ngày chính xác",
+"Validation Error"                           => "Lỗi kiểm tra",
+"The following fields contain errors"        => "Các trường sau đây lỗi",
+"No register break in database"              => "Không có đăng ký tạm nghỉ trong dữ liệu",
+);
+?>

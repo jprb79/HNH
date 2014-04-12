@@ -1,0 +1,289 @@
+[2013-03-13 04:47:22]	: -------------------Empezamos actualizacion-----------------------
+[2013-03-13 04:47:22]	: Creamos la tabla para almacenar datos de configuración
+[2013-03-13 04:47:22]	: Ejecutamos Acciones en comprobar_bd
+[2013-03-13 04:47:22]	: La tabla da_master_csv no existe
+[2013-03-13 04:47:22]	: La tabla da_video_records no existe
+[2013-03-13 04:47:22]	: La tabla da_salesforce_ctc no existe
+[2013-03-13 04:47:22]	: La tabla da_abandoned_userstatus no existe
+[2013-03-13 04:47:23]	: La tabla da_calls no existe
+[2013-03-13 04:47:23]	: La tabla da_calls_actions no existe
+[2013-03-13 04:47:23]	: La tabla da_campaigns_csv no existe
+[2013-03-13 04:47:23]	: La tabla da_campaigns_groups no existe
+[2013-03-13 04:47:23]	: La tabla da_campaigns_import no existe
+[2013-03-13 04:47:23]	: La tabla da_connected_licenses no existe
+[2013-03-13 04:47:24]	: La tabla da_config_email_accounts no existe
+[2013-03-13 04:47:24]	: La tabla da_contact_list no existe
+[2013-03-13 04:47:24]	: La tabla da_contacts no existe
+[2013-03-13 04:47:24]	: La tabla da_contacts_history no existe
+[2013-03-13 04:47:24]	: La tabla da_contacts_config no existe
+[2013-03-13 04:47:24]	: La tabla da_contacts_groups no existe
+[2013-03-13 04:47:24]	: La tabla da_contacts_import_errors no existe
+[2013-03-13 04:47:25]	: La tabla da_contacts_mail no existe
+[2013-03-13 04:47:25]	: La tabla da_contacts_laststatus no existe
+[2013-03-13 04:47:25]	: La tabla da_contacts_selects no existe
+[2013-03-13 04:47:25]	: La tabla da_contacts_options no existe
+[2013-03-13 04:47:26]	: La tabla da_contacts_contracting no existe
+[2013-03-13 04:47:26]	: La tabla da_contacts_upd no existe
+[2013-03-13 04:47:26]	: La tabla da_costs_conf no existe
+[2013-03-13 04:47:27]	: La tabla da_costs_calls no existe
+[2013-03-13 04:47:27]	: La tabla da_costs_incoming_campaigns no existe
+[2013-03-13 04:47:27]	: La tabla da_costs_aux no existe
+[2013-03-13 04:47:27]	: La tabla da_datagroups no existe
+[2013-03-13 04:47:27]	: La tabla da_groups_members no existe
+[2013-03-13 04:47:27]	: La tabla da_hangup_causes no existe
+[2013-03-13 04:47:27]	: La tabla da_ivr_data no existe
+[2013-03-13 04:47:28]	: La tabla da_license_status no existe
+[2013-03-13 04:47:28]	: La tabla da_mail no existe
+[2013-03-13 04:47:28]	: La tabla da_mail_answers no existe
+[2013-03-13 04:47:28]	: La tabla da_mail_attachment no existe
+[2013-03-13 04:47:28]	: La tabla da_mail_bcc no existe
+[2013-03-13 04:47:28]	: La tabla da_mail_cc no existe
+[2013-03-13 04:47:29]	: La tabla da_mail_to no existe
+[2013-03-13 04:47:29]	: La tabla da_mail_templates no existe
+[2013-03-13 04:47:29]	: La tabla da_mail_templatefields no existe
+[2013-03-13 04:47:29]	: La tabla da_maximums_byfinal no existe
+[2013-03-13 04:47:29]	: La tabla da_maximum_delay_times no existe
+[2013-03-13 04:47:29]	: La tabla da_mutex no existe
+[2013-03-13 04:47:29]	: La tabla da_proactivity no existe
+[2013-03-13 04:47:30]	: La tabla da_proactivity_type no existe
+[2013-03-13 04:47:30]	: La tabla da_programed_notices no existe
+[2013-03-13 04:47:30]	: La tabla da_result_added_phone no existe
+[2013-03-13 04:47:30]	: La tabla da_tipology_access no existe
+[2013-03-13 04:47:30]	: La tabla da_typology_history no existe
+[2013-03-13 04:47:30]	: La tabla da_flow_sms no existe
+[2013-03-13 04:47:31]	: La tabla da_sms_groups no existe
+[2013-03-13 04:47:31]	: La tabla da_sms_templates no existe
+[2013-03-13 04:47:31]	: La tabla da_sms_confirmations no existe
+[2013-03-13 04:47:31]	: La tabla da_status_added_phone no existe
+[2013-03-13 04:47:31]	: La tabla da_user_status no existe
+[2013-03-13 04:47:31]	: La tabla da_work_groups no existe
+[2013-03-13 04:47:32]	: La tabla dialapplet_callback_sequence no existe
+[2013-03-13 04:47:32]	: La tabla dialapplet_calls no existe
+[2013-03-13 04:47:32]	: La tabla dialapplet_call_center no existe
+[2013-03-13 04:47:32]	: La tabla dialapplet_campaign_contacts no existe
+[2013-03-13 04:47:32]	: La tabla dialapplet_campaign_contacts_changes no existe
+[2013-03-13 04:47:32]	: La tabla dialapplet_campaign_maximums no existe
+[2013-03-13 04:47:32]	: La tabla dialapplet_campaign_time_slots no existe
+[2013-03-13 04:47:33]	: La tabla dialapplet_chat no existe
+[2013-03-13 04:47:33]	: La tabla dialapplet_contact_phones no existe
+[2013-03-13 04:47:33]	: La tabla dialapplet_contacts no existe
+[2013-03-13 04:47:33]	: La tabla dialapplet_contacts_changelog no existe
+[2013-03-13 04:47:33]	: La tabla dialapplet_context no existe
+[2013-03-13 04:47:34]	: La tabla dialapplet_flow_answers no existe
+[2013-03-13 04:47:34]	: La tabla dialapplet_flow_answers_data no existe
+[2013-03-13 04:47:34]	: La tabla dialapplet_flow_attached_files no existe
+[2013-03-13 04:47:34]	: La tabla dialapplet_flow_commercials no existe
+[2013-03-13 04:47:35]	: La tabla dialapplet_groups no existe
+[2013-03-13 04:47:35]	: La tabla dialapplet_idreports_idgroups no existe
+[2013-03-13 04:47:35]	: La tabla dialapplet_lead_categories no existe
+[2013-03-13 04:47:35]	: La tabla dialapplet_lead_cancellation_reason no existe
+[2013-03-13 04:47:35]	: La tabla dialapplet_label_control no existe
+[2013-03-13 04:47:36]	: La tabla dialapplet_lead_data no existe
+[2013-03-13 04:47:36]	: La tabla dialapplet_lead_ddi_assoc no existe
+[2013-03-13 04:47:36]	: La tabla dialapplet_lead_distribution_goals no existe
+[2013-03-13 04:47:37]	: La tabla dialapplet_lead_distribution_rules no existe
+[2013-03-13 04:47:37]	: La tabla dialapplet_lead_log no existe
+[2013-03-13 04:47:37]	: La tabla dialapplet_lead_phones no existe
+[2013-03-13 04:47:37]	: La tabla dialapplet_lead_products no existe
+[2013-03-13 04:47:38]	: La tabla dialapplet_lead_rel_campaign no existe
+[2013-03-13 04:47:38]	: La tabla dialapplet_lead_sales no existe
+[2013-03-13 04:47:39]	: La tabla dialapplet_lead_source no existe
+[2013-03-13 04:47:42]	: La tabla dialapplet_lead_type no existe
+[2013-03-13 04:47:43]	: La tabla dialapplet_license_status no existe
+[2013-03-13 04:47:43]	: La tabla dialapplet_log_messages no existe
+[2013-03-13 04:47:43]	: La tabla dialapplet_log_callback no existe
+[2013-03-13 04:47:43]	: La tabla dialapplet_notices no existe
+[2013-03-13 04:47:43]	: La tabla dialapplet_notifications no existe
+[2013-03-13 04:47:43]	: La tabla dialapplet_notifications_log no existe
+[2013-03-13 04:47:44]	: La tabla dialapplet_phone_maximums no existe
+[2013-03-13 04:47:44]	: La tabla dialapplet_predictivedialer_actions no existe
+[2013-03-13 04:47:44]	: La tabla dialapplet_predictivedialer_answers_users no existe
+[2013-03-13 04:47:44]	: La tabla dialapplet_predictivedialer_argumentarios no existe
+[2013-03-13 04:47:44]	: La tabla dialapplet_predictivedialer_campaigns no existe
+[2013-03-13 04:47:45]	: La tabla dialapplet_predictivedialer_decisionactions no existe
+[2013-03-13 04:47:45]	: La tabla dialapplet_predictivedialer_decisionconfigurecontact no existe
+[2013-03-13 04:47:45]	: La tabla dialapplet_predictivedialer_decisiondata no existe
+[2013-03-13 04:47:45]	: La tabla dialapplet_predictivedialer_decisionfinal no existe
+[2013-03-13 04:47:45]	: La tabla dialapplet_predictivedialer_decisionflow no existe
+[2013-03-13 04:47:45]	: La tabla dialapplet_predictivedialer_decisionresponses no existe
+[2013-03-13 04:47:45]	: La tabla dialapplet_predictivedialer_decisionresponsesdata no existe
+[2013-03-13 04:47:45]	: La tabla dialapplet_predictivedialer_decisiontipology no existe
+[2013-03-13 04:47:46]	: La tabla dialapplet_predictivedialer_decisiontmp no existe
+[2013-03-13 04:47:46]	: La tabla dialapplet_predictivedialer_issues no existe
+[2013-03-13 04:47:46]	: La tabla dialapplet_predictivedialer_members no existe
+[2013-03-13 04:47:46]	: La tabla dialapplet_predictivedialer_monitoringdata no existe
+[2013-03-13 04:47:46]	: La tabla dialapplet_predictivedialer_phonenumbers no existe
+[2013-03-13 04:47:46]	: La tabla dialapplet_predictivedialer_phonestatus no existe
+[2013-03-13 04:47:47]	: La tabla dialapplet_predictivedialer_questions no existe
+[2013-03-13 04:47:47]	: La tabla dialapplet_predictivedialer_questions_answers no existe
+[2013-03-13 04:47:47]	: La tabla dialapplet_predictivedialer_resetstatus no existe
+[2013-03-13 04:47:47]	: La tabla dialapplet_predictivedialer_timetables no existe
+[2013-03-13 04:47:47]	: La tabla dialapplet_predictivedialer_timetables_slots no existe
+[2013-03-13 04:47:47]	: La tabla dialapplet_records no existe
+[2013-03-13 04:47:47]	: La tabla dialapplet_reports no existe
+[2013-03-13 04:47:48]	: La tabla dialapplet_reports_groups no existe
+[2013-03-13 04:47:48]	: La tabla dialapplet_reports_types no existe
+[2013-03-13 04:47:48]	: La tabla dialapplet_robinson_list no existe
+[2013-03-13 04:47:48]	: La tabla dialapplet_service_users no existe
+[2013-03-13 04:47:48]	: La tabla dialapplet_services no existe
+[2013-03-13 04:47:48]	: La tabla dialapplet_service_time no existe
+[2013-03-13 04:47:48]	: La tabla dialapplet_sessions no existe
+[2013-03-13 04:47:49]	: La tabla dialapplet_shifts no existe
+[2013-03-13 04:47:49]	: La tabla da_clean_db no existe
+[2013-03-13 04:47:49]	: La tabla dialapplet_tabs no existe
+[2013-03-13 04:47:49]	: La tabla dialapplet_time_slots no existe
+[2013-03-13 04:47:49]	: La tabla dialapplet_user_calendar no existe
+[2013-03-13 04:47:49]	: La tabla dialapplet_users no existe
+[2013-03-13 04:47:50]	: La tabla dialapplet_users_hour no existe
+[2013-03-13 04:47:50]	: La tabla dialapplet_users_tabs no existe
+[2013-03-13 04:47:50]	: La tabla dialapplet_welcome_messages no existe
+[2013-03-13 04:47:50]	: Actualizando Informres
+[2013-03-13 04:47:50]	: 	Insert report 1, includes/informes/detalle/ranking_llamada_tipo.php , 1, 2, typecall
+[2013-03-13 04:47:50]	: 	Insert report 2, includes/informes/detalle/duracion.php , 1, 2, averagecalltype
+[2013-03-13 04:47:50]	: 	Insert report 3, includes/informes/detalle/duracion_agente.php , 1, 1, averagecallagent
+[2013-03-13 04:47:50]	: 	Insert report 4, includes/informes/detalle/tiempo_respuesta.php , 1, 1, averageresponseagent
+[2013-03-13 04:47:50]	: 	Insert report 5, includes/informes/detalle/entrantes_contestadas.php , 1, 1, incomingcalls
+[2013-03-13 04:47:50]	: 	Insert report 6, includes/informes/detalle/pd_tiempo_hablado.php , 0, 3, talktimejourney
+[2013-03-13 04:47:50]	: 	Insert report 7, includes/informes/detalle/pd_utilizacion_agente.php , 1, 3, agentutilization
+[2013-03-13 04:47:50]	: 	Insert report 8, includes/informes/detalle/pd_llamadas_completadas.php , 1, 3, numbercallscompleted
+[2013-03-13 04:47:50]	: 	Insert report 9, includes/informes/detalle/salientes_agente.php , 1, 1, outgoingcallsagent
+[2013-03-13 04:47:50]	: 	Insert report 10, includes/informes/detalle/pd_llamadas_completadas_campanya.php , 1, 3, callscampaignscompleted
+[2013-03-13 04:47:50]	: 	Insert report 11, includes/informes/detalle/pd_llamadas_autoatendidas.php , 1, 3, autoattendandcalls
+[2013-03-13 04:47:50]	: 	Insert report 12, includes/informes/detalle/srespuesta_agente.php , 1, 1, unansweredcallsagent
+[2013-03-13 04:47:50]	: 	Insert report 13, includes/informes/detalle/pd_detalle_argumentario.php , 1, 3, responseargumentariodetail
+[2013-03-13 04:47:50]	: 	Insert report 14, includes/informes/detalle/ranking_cola.php , 1, 2, callsforqueue
+[2013-03-13 04:47:50]	: 	Insert report 15, includes/informes/detalle/duracion_estado_agente_agrupado.php , 1, 1, groupsesionagent
+[2013-03-13 04:47:50]	: 	Insert report 16, includes/informes/detalle/pd_promedio_espera.php , 1, 3, averageminmaxresponseday
+[2013-03-13 04:47:50]	: 	Insert report 17, includes/informes/detalle/llamadas_externas.php , 1, 3, calledexternal
+[2013-03-13 04:47:50]	: 	Insert report 18, includes/informes/detalle/pd_promedio_dia.php , 1, 3, averageminmanxresponsehour
+[2013-03-13 04:47:50]	: 	Insert report 19, includes/informes/detalle/porcen_resultado.php , 1, 5, percentageresult
+[2013-03-13 04:47:50]	: 	Insert report 20, includes/informes/detalle/promedio_duracion.php , 1, 2, averageminmaxdurationweek
+[2013-03-13 04:47:50]	: 	Insert report 21, includes/informes/detalle/duracion_estado_agente.php , 1, 1, statusdetail
+[2013-03-13 04:47:50]	: 	Insert report 22, includes/informes/detalle/promedio_hora.php , 1, 2, averageminmaxdurationhour
+[2013-03-13 04:47:50]	: 	Insert report 23, includes/informes/detalle/resultados_positivos.php , 1, 5, positiveresults
+[2013-03-13 04:47:50]	: 	Insert report 24, includes/informes/detalle/agentes.php , 0, 1, agentsavailables
+[2013-03-13 04:47:50]	: 	Insert report 25, includes/informes/detalle/pd_detalle_decision.php , 0, 3, decisionflowdetail
+[2013-03-13 04:47:50]	: 	Insert report 26, includes/informes/detalle/pd_detalle_argumentario_hor.php , 1, 5, horizontalresponseargumentarydetail
+[2013-03-13 04:47:50]	: 	Insert report 27, includes/informes/detalle/tipo_estados.php , 1, 1, typeagentstatus
+[2013-03-13 04:47:50]	: 	Insert report 28, includes/informes/detalle/campaign_details.php , 1, 3, campaigndetails
+[2013-03-13 04:47:50]	: 	Insert report 29, includes/informes/detalle/contact_qualification.php , 1, 5, contactsqualification
+[2013-03-13 04:47:50]	: 	Insert report 30, includes/informes/detalle/productividad_agente.php , 1, 1, agentproductivity
+[2013-03-13 04:47:50]	: 	Insert report 31, includes/informes/detalle/descansos_agente.php , 1, 1, agentbreaks
+[2013-03-13 04:47:50]	: 	Insert report 32, includes/informes/detalle/detalle_fecha.php , 1, 2, calldetail
+[2013-03-13 04:47:50]	: 	Insert report 33, includes/informes/detalle/detalle_agente.php , 1, 1, agentcalldetail
+[2013-03-13 04:47:50]	: 	Insert report 34, includes/informes/detalle/detalle_entrantes.php , 1, 2, incomingcalldetail
+[2013-03-13 04:47:50]	: 	Insert report 35, includes/informes/detalle/detalle_salientes.php , 1, 2, outgoingcalldetail
+[2013-03-13 04:47:50]	: 	Insert report 36, includes/informes/detalle/detalle_perdidas.php , 1, 2, missedcalldetail
+[2013-03-13 04:47:50]	: 	Insert report 37, includes/informes/detalle/detalle_srespuesta.php , 1, 2, unansweredcalldetail
+[2013-03-13 04:47:50]	: 	Insert report 38, includes/informes/detalle/call_state.php , 0, 3, callstate
+[2013-03-13 04:47:50]	: 	Insert report 39, includes/informes/detalle/conectados_real.php , 1, 1, agentsconected
+[2013-03-13 04:47:50]	: 	Insert report 40, includes/informes/detalle/salientes_real.php , 1, 2, outgoingactualcalls
+[2013-03-13 04:47:51]	: 	Insert report 41, includes/informes/detalle/total_hablado_agente.php , 1, 1, totaltimetalkagent
+[2013-03-13 04:47:51]	: 	Insert report 42, includes/informes/detalle/cuadro_saliente.php , 0, 3, outgoing_dashboard
+[2013-03-13 04:47:51]	: 	Insert report 43, includes/informes/detalle/pd_respuestas_argumentarios.php , 1, 5, responsesargumentaris
+[2013-03-13 04:47:51]	: 	Insert report 44, includes/informes/detalle/ivrData.php , 1, 2, ivrData
+[2013-03-13 04:47:51]	: 	Insert report 45, includes/informes/detalle/incoming_calls_per_week.php , 1, 1, calls_per_week
+[2013-03-13 04:47:51]	: 	Insert report 46, includes/informes/detalle/llamadas_estado_agente.php , 1, 1, statusandcallsperagent
+[2013-03-13 04:47:51]	: 	Insert report 47, includes/informes/detalle/listado_visitas.php , 1, 5, commercialevents
+[2013-03-13 04:47:51]	: 	Insert report 48, includes/informes/detalle/rater_report.php , 1, 2, raterreport
+[2013-03-13 04:47:51]	: 	Insert report 49, includes/informes/detalle/mailList.php , 1, 4, mailList
+[2013-03-13 04:47:51]	: 	Insert report 50, includes/informes/detalle/abandoned_userstatus.php , 1, 2, abandoneduserstatus
+[2013-03-13 04:47:51]	: 	Insert report 51, includes/informes/detalle/AgentsTimeAvailable.php , 1, 1, agentsavailable
+[2013-03-13 04:47:51]	: 	Insert report 52, includes/informes/detalle/situacionColas.php , 1, 2, queueSituation
+[2013-03-13 04:47:51]	: 	Insert report 53, includes/informes/detalle/agentProductivity.php , 1, 1, agentProductivity
+[2013-03-13 04:47:51]	: 	Insert report 54, includes/informes/detalle/max_time_logout.php , 1, 1, maxtimelogout
+[2013-03-13 04:47:51]	: 	Insert report 55, includes/informes/detalle/rater_total_services.php , 1, 2, ratertotalservice
+[2013-03-13 04:47:51]	: 	Insert report 56, includes/informes/detalle/status_contact.php , 1, 5, statuscontact
+[2013-03-13 04:47:51]	: 	Insert report 57, includes/informes/detalle/dataContacts.php , 1, 5, flowcontacts
+[2013-03-13 04:47:51]	: 	Insert report 58, includes/informes/detalle/positiveContacts.php , 1, 5, positivecontacts
+[2013-03-13 04:47:51]	: 	Insert report 59, includes/informes/detalle/uniqueCalls.php , 1, 2, uniquecalls
+[2013-03-13 04:47:51]	: 	Insert report 60, includes/informes/detalle/c2c_added_phone.php , 1, 2, c2creport
+[2013-03-13 04:47:51]	: 	Insert report 61, includes/informes/detalle/mailOrderByDate.php , 1, 4, mailOrderByDate
+[2013-03-13 04:47:51]	: 	Insert report 62, includes/informes/detalle/categorizacion_temporal_x_resultado.php , 1, 1, resultdetail
+[2013-03-13 04:47:51]	: 	Insert report 63, includes/informes/detalle/total_tipologias_x_agente.php , 1, 1, totalrangetipology
+[2013-03-13 04:47:51]	: 	Insert report 64, includes/informes/detalle/total_minutos_agente.php , 1, 1, totalminutesagent
+[2013-03-13 04:47:51]	: Actualizamos Pestañas
+[2013-03-13 04:47:51]	: update dialapplet_tabs set config = false, enabled = false where id = 7;
+update dialapplet_tabs set config = false, enabled = false where id = 9;
+update dialapplet_tabs set config = false, enabled = false where id = 11;
+update dialapplet_tabs set config = false, enabled = false where id = 14;
+update dialapplet_tabs set config = false, enabled = false where id = 10;
+update dialapplet_tabs set config = false, enabled = false where id = 16;
+update dialapplet_tabs set config = false, enabled = false where id = 23;
+update dialapplet_tabs set config = false, enabled = true where id = 12;
+update dialapplet_tabs set config = false, enabled = false where id = 3;
+update dialapplet_tabs set config = false, enabled = false where id = 1;
+update dialapplet_tabs set config = false, enabled = false where id = 2;
+update dialapplet_tabs set config = false, enabled = false where id = 4;
+update dialapplet_tabs set config = false, enabled = false where id = 5;
+update dialapplet_tabs set config = false, enabled = false where id = 6;
+update dialapplet_tabs set config = false, enabled = false where id = 8;
+update dialapplet_tabs set config = false, enabled = false where id = 13;
+update dialapplet_tabs set config = false, enabled = false where id = 17;
+update dialapplet_tabs set config = false, enabled = false where id = 18;
+update dialapplet_tabs set config = false, enabled = false where id = 21;
+update dialapplet_tabs set config = false, enabled = false where id = 24;
+update dialapplet_tabs set config = false, enabled = false where id = 15;
+update dialapplet_tabs set config = false, enabled = false where id = 25;
+update dialapplet_tabs set config = false, enabled = false where id = 19;
+update dialapplet_tabs set config = false, enabled = false where id = 20;
+
+[2013-03-13 04:47:51]	: Insertamos las pestañas que faltan
+[2013-03-13 04:47:51]	: update dialapplet_reports_types set name='agent' where id=1;
+update dialapplet_reports_types set name='callcenter' where id=2;
+update dialapplet_reports_types set name='campaign' where id=3;
+update dialapplet_reports_types set name='mail' where id=4;
+update dialapplet_reports_types set name='contact' where id=5;
+update dialapplet_reports_types set name='others' where id=999999;
+
+[2013-03-13 04:47:51]	: Actualizamos los Indices
+[2013-03-13 04:47:51]	: da_calls_type es distinto, actualizamos
+[2013-03-13 04:47:51]	: da_contacts_type es distinto, actualizamos
+[2013-03-13 04:47:51]	: CREATE INDEX da_contacts_electriccups ON da_contacts USING hash (electriccups)
+[2013-03-13 04:47:51]	: CREATE INDEX da_contacts_gascups ON da_contacts USING hash (gascups)
+[2013-03-13 04:47:51]	: CREATE INDEX da_contacts_config_campaignid ON da_contacts_config USING btree (campaignid)
+[2013-03-13 04:47:51]	: CREATE INDEX da_contacts_groups_campaignid ON da_contacts_groups USING btree (campaignid)
+[2013-03-13 04:47:51]	: CREATE INDEX da_contacts_import_errors_campaignid ON da_contacts_import_errors USING btree (campaignid)
+[2013-03-13 04:47:51]	: CREATE INDEX da_contacts_mail_contactid ON da_contacts_mail USING btree (contactid)
+[2013-03-13 04:47:51]	: CREATE INDEX da_contacts_options_selectid ON da_contacts_options USING btree (selectid)
+[2013-03-13 04:47:51]	: CREATE INDEX da_contacts_laststatus_campaignid ON da_contacts_laststatus USING btree (campaignid)
+[2013-03-13 04:47:51]	: CREATE INDEX da_contacts_laststatus_status ON da_contacts_laststatus USING hash (status)
+[2013-03-13 04:47:51]	: CREATE INDEX da_contacts_laststatus_lastupdate ON da_contacts_laststatus USING btree (status)
+[2013-03-13 04:47:52]	: CREATE INDEX da_mail_campaignid ON da_mail USING btree (campaignid)
+[2013-03-13 04:47:52]	: CREATE INDEX da_mail_subject ON da_mail USING hash (subject)
+[2013-03-13 04:47:52]	: CREATE INDEX da_mail_fromcontact ON da_mail USING btree (fromcontact)
+[2013-03-13 04:47:52]	: CREATE INDEX da_mail_tocontact ON da_mail USING btree (tocontact)
+[2013-03-13 04:47:52]	: CREATE INDEX da_mail_questionid ON da_mail USING btree (questionid)
+[2013-03-13 04:47:52]	: CREATE INDEX da_mail_answerid ON da_mail USING btree (answerid)
+[2013-03-13 04:47:52]	: CREATE INDEX da_maximum_delay_times_campaignid ON da_maximum_delay_times USING btree (campaignid)
+[2013-03-13 04:47:52]	: dialapplet_calls_type es distinto, actualizamos
+[2013-03-13 04:47:52]	: CREATE INDEX dialapplet_flow_answers_campaignid ON dialapplet_flow_answers USING btree (campaignid)
+[2013-03-13 04:47:52]	: CREATE INDEX dialapplet_flow_answers_samid ON dialapplet_flow_answers USING hash (samid)
+[2013-03-13 04:47:52]	: CREATE INDEX dialapplet_flow_answers_workflow ON dialapplet_flow_answers USING btree (workflow)
+[2013-03-13 04:47:52]	: CREATE INDEX dialapplet_flow_answers_phoneid ON dialapplet_flow_answers USING btree (phoneid)
+[2013-03-13 04:47:52]	: CREATE INDEX dialapplet_flow_answers_username ON dialapplet_flow_answers USING hash (username)
+[2013-03-13 04:47:52]	: CREATE INDEX dialapplet_flow_answers_tipology ON dialapplet_flow_answers USING btree (tipology)
+[2013-03-13 04:47:52]	: CREATE INDEX dialapplet_flow_answers_subtipology ON dialapplet_flow_answers USING btree (subtipology)
+[2013-03-13 04:47:52]	: CREATE INDEX dialapplet_flow_answers_result ON dialapplet_flow_answers USING btree (result)
+[2013-03-13 04:47:52]	: CREATE INDEX dialapplet_flow_answers_starttime ON dialapplet_flow_answers USING btree (starttime)
+[2013-03-13 04:47:52]	: CREATE INDEX dialapplet_flow_answers_endtime ON dialapplet_flow_answers USING btree (endtime)
+[2013-03-13 04:47:52]	: CREATE INDEX dialapplet_flow_answers_contactid ON dialapplet_flow_answers USING btree (contactid)
+[2013-03-13 04:47:52]	: CREATE INDEX dialapplet_flow_answers_lastanswer ON dialapplet_flow_answers USING btree (lastanswer)
+[2013-03-13 04:47:52]	: CREATE INDEX dialapplet_flow_answers_duration ON dialapplet_flow_answers USING btree (duration)
+[2013-03-13 04:47:52]	: CREATE INDEX dialapplet_predictivedialer_decisionconfigurecontact_campaignid ON dialapplet_predictivedialer_decisionconfigurecontact USING btree (campaignid)
+[2013-03-13 04:47:53]	: CREATE INDEX dialapplet_predictivedialer_monitoringdata_contactgroup ON dialapplet_predictivedialer_monitoringdata USING btree (contactgroup)
+[2013-03-13 04:47:53]	: CREATE INDEX phonenumbers_campaignid ON dialapplet_predictivedialer_phonenumbers USING btree (campaignid)
+[2013-03-13 04:47:53]	: phonenumbers_phonenumber es distinto, actualizamos
+[2013-03-13 04:47:53]	: CREATE INDEX phonenumbers_contactid ON dialapplet_predictivedialer_phonenumbers USING btree (contactid)
+[2013-03-13 04:47:53]	: CREATE INDEX phonestatus_firstincontact ON dialapplet_predictivedialer_phonestatus USING btree (firstincontact)
+[2013-03-13 04:47:53]	: CREATE INDEX phonestatus_maximumcontrol ON dialapplet_predictivedialer_phonestatus USING btree (maximumcontrol)
+[2013-03-13 04:47:53]	: CREATE INDEX phonestatus_launchdate ON dialapplet_predictivedialer_phonestatus USING btree (launchdate)
+[2013-03-13 04:47:53]	: CREATE INDEX phonestatus_answerdate ON dialapplet_predictivedialer_phonestatus USING btree (answerdate)
+[2013-03-13 04:47:53]	: CREATE INDEX phonestatus_assignationdate ON dialapplet_predictivedialer_phonestatus USING btree (assignationdate)
+[2013-03-13 04:47:53]	: CREATE INDEX phonestatus_agentpickupdate ON dialapplet_predictivedialer_phonestatus USING btree (agentpickupdate)
+[2013-03-13 04:47:53]	: CREATE INDEX phonestatus_hangupdate ON dialapplet_predictivedialer_phonestatus USING btree (hangupdate)
+[2013-03-13 04:47:54]	: CREATE INDEX phonestatus_callbackdate ON dialapplet_predictivedialer_phonestatus USING btree (callbackdate)
+[2013-03-13 04:47:54]	: dialapplet_records_username es distinto, actualizamos
+[2013-03-13 04:47:54]	: CREATE INDEX dialapplet_records_samid ON dialapplet_records USING hash (samid)
+[2013-03-13 04:47:54]	: CREATE INDEX dialapplet_records_campaignid ON dialapplet_records USING btree (campaignid)
+[2013-03-13 04:47:54]	: -------------------Terminamos actualizacion-----------------------

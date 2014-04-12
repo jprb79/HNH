@@ -1,0 +1,125 @@
+<?php
+/* vim: set expandtab tabstop=4 softtabstop=4 shiftwidth=4:
+  Codificación: UTF-8
+  +----------------------------------------------------------------------+
+  | Elastix version 0.5                                                  |
+  | http://www.elastix.org                                               |
+  +----------------------------------------------------------------------+
+  | Copyright (c) 2006 Palosanto Solutions S. A.                         |
+  +----------------------------------------------------------------------+
+  | Cdla. Nueva Kennedy Calle E 222 y 9na. Este                          |
+  | Telfs. 2283-268, 2294-440, 2284-356                                  |
+  | Guayaquil - Ecuador                                                  |
+  | http://www.palosanto.com                                             |
+  +----------------------------------------------------------------------+
+  | The contents of this file are subject to the General Public License  |
+  | (GPL) Version 2 (the "License"); you may not use this file except in |
+  | compliance with the License. You may obtain a copy of the License at |
+  | http://www.opensource.org/licenses/gpl-license.php                   |
+  |                                                                      |
+  | Software distributed under the License is distributed on an "AS IS"  |
+  | basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See  |
+  | the License for the specific language governing rights and           |
+  | limitations under the License.                                       |
+  +----------------------------------------------------------------------+
+  | The Original Code is: Elastix Open Source.                           |
+  | The Initial Developer of the Original Code is PaloSanto Solutions    |
+  +----------------------------------------------------------------------+
+  $Id: es.lang,v 1.2 2007/08/09 00:31:28 jmartinez Exp $ */
+global $arrLangModule;
+$arrLangModule = array(
+'Agent Console' => 'Bảng điều khiển tổng đài viên',
+'Agent log-in failed!' => 'Đăng nhập lỗi!',
+'Agent login process not started' => 'Tiến trình đăng nhập chưa khởi tạo.',
+'Agent log-in terminated.' => 'Đăng nhập bị mất kết nối.',
+'Agent not authorized for ECCP - ECCP password not set' => 'Mật khẩu ECCP chưa có',
+'Agent not found' => 'Agent not found',
+'Agent not handling an incoming call' => 'Agent không xử lý cuộc gọi vào',
+'Agent Number' => 'Số tổng đài viên',
+'Call at end of campaign' => 'Gọi lúc cuối chiến dịch',
+'Call Form' => 'Biểu mẩu',
+'Call Information' => 'Thông tin cuộc gọi',
+'Call Script' => 'Lời thoại cuộc gọi',
+'Call successfully scheduled' => 'Cuộc gọi đặt lịch thành công',
+'Cannot start agent login' => 'Không thể đăng nhập',
+'Confirm contact' => 'Xác nhận số liên lạc',
+'Connected to call' => 'Kết nối cuộc gọi',
+'Contact' => 'Số liên hệ',
+'Contact successfully confirmed' => 'Số liên hệ xác nhận thành công',
+'Dismiss' => 'Gạt bỏ',
+'End Break' => 'Kết thúc nghỉ',
+'End date' => 'Ngày kết thúc',
+'End Hold' => 'Kết thúc chờ',
+'End session' => 'Kết thúc phiên',
+'End time' => 'Thời gian kết thúc',
+'Enter' => 'Đăng nhập',
+'Error while confirming contact' => 'Lỗi khi xác nhận số liên hệ',
+'Error while hanging up call' => 'Lỗi khi cúp máy',
+'Error while logging out agent' => 'Lỗi khi đăng xuất',
+'Error while saving form data' => 'Lỗi khi lưu mẫu',
+'Error while scheduling call' => 'Lỗi khi đặt lịch cuộc gọi',
+'Error while starting break' => 'Lỗi khi tạm nghỉ',
+'Error while stopping break' => 'Lỗi khi tắt tạm nghỉ',
+'Error while transferring call' => 'Lỗi khi chuyển máy',
+'Extension' => 'Số',
+'Failed to retrieve agent password' => 'Lỗi khi lấy mật khẩu',
+'Form data successfully saved' => 'Dữ liệu lưu thành công',
+'Hangup' => 'Cúp máy',
+'Hold' => 'Chờ',
+'Invalid agent number' => 'Sai số agent',
+'Invalid extension number' => 'Sai số',
+'Invalid or incomplete form data' => 'Sai thông tin dữ liệu',
+'Invalid or incomplete schedule' => 'Sai thông tin đặt lịch',
+'Invalid or missing break ID' => 'Sai thông tin ID tạm nghỉ',
+'Invalid or missing contact ID' => 'Sai thông tin liên hệ',
+'Invalid or missing extension to transfer' => 'Sai thông tin số chuyển máy',
+'Logging agent in. Please wait...' => 'Đang đăng nhập. Vui lòng chờ...',
+'Names' => 'Tên',
+'No active call' => 'Không có cuộc gọi',
+'No forms available for this call' => 'Không có mẫu nhập cho cuộc gọi này',
+'No information available for this call' => 'Không có thông tin cuộc gọi này',
+'(no matching contacts)' => '(no matching contacts)',
+'(No script available)' => '(No script available)',
+'On break' => 'Đang tạm nghỉ',
+'Phone number' => 'Số điện thoại',
+'Please select your agent number and your extension' => 'Please select your agent number and your extension',
+'Save data' => 'Lưu dữ liệu',
+'Schedule at date' => 'Đặt lịch ngày',
+'Schedule call' => 'Đặt lịch gọi',
+'Schedule' => 'Đặt lịch',
+'Schedule to same agent' => 'Đặt lịch cùng agent',
+'Select break type' => 'Chọn loại tạm nghỉ',
+'Select extension to transfer to' => 'Chọn số để chuyển máy',
+'Specified agent already connected to extension' => 'Specified agent already connected to extension',
+'Start and end date are required for date scheduling.' => 'Start and end date are required for date scheduling.',
+'Start date' => 'Ngày bắt đầu',
+'Start time' => 'Thời gian bắt đầu',
+'Take Break' => 'Tạm nghỉ',
+'There are no agents available. At least one agent is required for agent login.' => 'There are no agents available. At least one agent is required for agent login.',
+'There are no extensions available. At least one extension is required for agent login.' => 'There are no extensions available. At least one extension is required for agent login.',
+'Transfer' => 'Chuyển máy',
+'Unable to fetch break types' => 'Không thể lấy loại tạm nghỉ',
+'Unable to hangup call' => 'Không thể cúp máy',
+'Unable to read call information' => 'Không thể đọc thông tin',
+'Unable to read queue script' => 'Unable to read queue script',
+'Unable to save form data' => 'Unable to save form data',
+'Unable to schedule call' => 'Unable to schedule call',
+'Unable to set contact' => 'Unable to set contact',
+'Unable to start break' => 'Không thể tạm nghỉ',
+'Unable to stop break' => 'Không thể tắt tạm nghỉ',
+'Unable to transfer call' => 'Không thể chuyển máy',
+'(unavailable)' => '(unavailable)',
+'VTiger CRM' => 'VTiger CRM',
+'Welcome to Agent Console' => 'Chào mừng đến màn hình điểu khiển',
+
+'First name' => 'Tên',
+'Last name' => 'Họ',
+'National ID' => 'Quốc gia ID',
+'External site' => 'Trang bên ngoài',
+
+'Blind transfer' => 'Chuyển trực tiếp',
+'Attended transfer' => 'Chuyển gián têếp',
+'Password' => 'Mật khẩu',
+'Callback Extension' => 'Callback Extension',
+);
+?>

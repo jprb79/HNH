@@ -1,0 +1,73 @@
+<?php
+/* vim: set expandtab tabstop=4 softtabstop=4 shiftwidth=4:
+  Codificación: UTF-8
+  +----------------------------------------------------------------------+
+  | Elastix version 0.5                                                  |
+  | http://www.elastix.org                                               |
+  +----------------------------------------------------------------------+
+  | Copyright (c) 2006 Palosanto Solutions S. A.                         |
+  +----------------------------------------------------------------------+
+  | Cdla. Nueva Kennedy Calle E 222 y 9na. Este                          |
+  | Telfs. 2283-268, 2294-440, 2284-356                                  |
+  | Guayaquil - Ecuador                                                  |
+  | http://www.palosanto.com                                             |
+  +----------------------------------------------------------------------+
+  | The contents of this file are subject to the General Public License  |
+  | (GPL) Version 2 (the "License"); you may not use this file except in |
+  | compliance with the License. You may obtain a copy of the License at |
+  | http://www.opensource.org/licenses/gpl-license.php                   |
+  |                                                                      |
+  | Software distributed under the License is distributed on an "AS IS"  |
+  | basis, WITHOUT WARRANTY OF ANY KIND, either express or implied. See  |
+  | the License for the specific language governing rights and           |
+  | limitations under the License.                                       |
+  +----------------------------------------------------------------------+
+  | The Original Code is: Elastix Open Source.                           |
+  | The Initial Developer of the Original Code is PaloSanto Solutions    |
+  +----------------------------------------------------------------------+
+  $Id: es.lang,v 1.2 2007/08/09 00:31:28 jmartinez Exp $ */
+global $arrLangModule;
+$arrLangModule=array(
+"Agents" => "Tổng đài viên",
+"New agent"=>"Thêm tổng đài viên",
+"Agent List"=>"DS tổng đài viên",
+"Edit agent"=>"Sửa",
+"Agent Number"=>"Số máy nhánh",
+"View agent"=>"Xem",
+"Queue" => "Hàng đợi",
+"Error Delete Agent"=>"Lỗi khi xóa.",
+"Error Update Agent"=>"Lỗi cập nhật.",
+"Error Insert Agent"=>"Lỗi khi thêm.",
+"Error Agent Number"=>"Số máy nhánh không đúng",
+"Error saving agent in file"=>"Lỗi khi lưu file",
+"Error updating agent in file"=>"Lỗi khi cập nhật file",
+"Error when deleting agent in file"=>"Lỗi khi xóa TĐV trong file",
+"Agent number already exists"=>"Số máy nhánh đã có",
+"Agent doesn't exist in configuration file"=>"TĐV không tồn tại trong file",
+"Agent doesn't exist in database"=>"TĐV không tồn tại",
+"To rapair is necesary delete agent from configuration file. Do you want to continue?"=>"To repair, it is necessary to delete the agent from the configuration file. Continue?",
+"To rapair is necesary add an agent in configuration file. Do you want to continue?"=>"To repair, it is necessary to add the agent to the configuration file. Continue?",
+// desconectar agentes
+"Number"=>"Số",
+"Disconect"=>"Ngắt kết nối",
+"Configure"=>"Cấu hình",
+"Offline"=>"Nghỉ",
+"Online"=>"Trực",
+"Not Status"=>"Không trạng thái",
+"Repair"=>"Sửa",
+"All"=>"Tất cả",
+"No call"=>"Không có cuộc gọi",
+"Name" => "Tên",
+"Retype password" => "Nhập lại mật khẩu",
+'View' => 'Xem',
+'Status' => 'Trạng thái',
+'With selection' => 'Với lựa chọn',
+'Disconnect' => 'Ngắt kết nối',
+"The passwords aren't numeric values" => "Mật khẩu chỉ là giá trị số",
+"The passwords are empty or don't match" => "Mật khẩu trống hay không trùng nhau",
+"ECCP Password" => "ECCP Password",
+"Retype ECCP password" => "Retype ECCP password",
+"ECCP passwords don't match" => "ECCP passwords don't match",
+"Options"   =>  "Lựa chọn",
+);
+?>

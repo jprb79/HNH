@@ -1,0 +1,24 @@
+<module>
+	<rawname>setcid</rawname>
+	<name>Set CallerID</name>
+	<version>2.8.2</version>
+	<type>setup</type>
+	<category>Third Party Addon</category>
+	<description>
+		Adds the ability to change the CallerID within a call flow.
+	</description>
+	<menuitems>
+		<setcid>Set CallerID</setcid>
+	</menuitems>
+	<changelog>
+		*2.8.2* #4609
+		*2.8.1* Remove debug leftover
+		*2.8.0* #4284, #4316
+		*2.5.0* First release of module
+	</changelog>
+	<depends>
+		<version>2.5.0</version>
+	</depends>
+	<location>contributed_modules/release/setcid-2.8.2.tgz</location>
+	<md5sum>2843e1b9ace644f1f73458a4790a9555</md5sum>
+</module>

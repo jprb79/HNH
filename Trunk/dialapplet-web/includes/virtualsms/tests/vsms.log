@@ -1,0 +1,468 @@
+
+ [2008-10-24 13:25:33] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:25:33] Debug: [ Protocol ] f64eac11f2cd Server: 1 NOOK
+ [2008-10-24 13:25:33] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:25:33] Debug: [ Error    ] f64eac11f2cd:201 Invalid user or password
+ [2008-10-24 13:42:00] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:42:00] Debug: [ Protocol ] 86b122d43583 Server: 1 NOOK
+ [2008-10-24 13:42:00] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:42:00] Debug: [ Error    ] 86b122d43583:201 Invalid user or password
+ [2008-10-24 13:43:31] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:43:31] Debug: [ Protocol ] 6c8349cc7260 Server: 1 NOOK
+ [2008-10-24 13:43:31] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:43:31] Debug: [ Error    ] 6c8349cc7260:201 Invalid user or password
+ [2008-10-24 13:44:16] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:44:16] Debug: [ Protocol ] c3c59e5f8b3e Server: 1 NOOK
+ [2008-10-24 13:44:16] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:44:16] Debug: [ Error    ] c3c59e5f8b3e:201 Invalid user or password
+ [2008-10-24 13:44:24] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:44:24] Debug: [ Protocol ] d4c2e4a3297f Server: 1 NOOK
+ [2008-10-24 13:44:24] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:44:24] Debug: [ Error    ] d4c2e4a3297f:201 Invalid user or password
+ [2008-10-24 13:44:41] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:44:41] Debug: [ Protocol ] 57aeee35c982 Server: 1 NOOK
+ [2008-10-24 13:44:41] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:44:41] Debug: [ Error    ] 57aeee35c982:201 Invalid user or password
+ [2008-10-24 13:44:42] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:44:42] Debug: [ Protocol ] 3a066bda8c96 Server: 1 NOOK
+ [2008-10-24 13:44:42] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:44:42] Debug: [ Error    ] 3a066bda8c96:201 Invalid user or password
+ [2008-10-24 13:45:03] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:45:03] Debug: [ Protocol ] f90f2aca5c64 Server: 1 NOOK
+ [2008-10-24 13:45:03] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:45:03] Debug: [ Error    ] f90f2aca5c64:201 Invalid user or password
+ [2008-10-24 13:46:44] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:46:44] Debug: [ Protocol ] c16a5320fa47 Server: 1 NOOK
+ [2008-10-24 13:46:44] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:46:44] Debug: [ Error    ] c16a5320fa47:201 Invalid user or password
+ [2008-10-24 13:47:18] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:18] Debug: [ Protocol ] 19ca14e7ea63 Server: 1 NOOK
+ [2008-10-24 13:47:18] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:18] Debug: [ Error    ] 19ca14e7ea63:201 Invalid user or password
+ [2008-10-24 13:47:19] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:19] Debug: [ Protocol ] 65658fde58ab Server: 1 NOOK
+ [2008-10-24 13:47:19] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:19] Debug: [ Error    ] 65658fde58ab:201 Invalid user or password
+ [2008-10-24 13:47:20] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:20] Debug: [ Protocol ] 8f7d807e1f53 Server: 1 NOOK
+ [2008-10-24 13:47:20] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:20] Debug: [ Error    ] 8f7d807e1f53:201 Invalid user or password
+ [2008-10-24 13:47:32] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:33] Debug: [ Protocol ] 9f61408e3afb Server: 1 NOOK
+ [2008-10-24 13:47:33] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:33] Debug: [ Error    ] 9f61408e3afb:201 Invalid user or password
+ [2008-10-24 13:47:51] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:51] Debug: [ Protocol ] 07871915a810 Server: 1 NOOK
+ [2008-10-24 13:47:51] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:51] Debug: [ Error    ] 07871915a810:201 Invalid user or password
+ [2008-10-24 13:47:51] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:51] Debug: [ Protocol ] a684eceee76f Server: 1 NOOK
+ [2008-10-24 13:47:51] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:51] Debug: [ Error    ] a684eceee76f:201 Invalid user or password
+ [2008-10-24 13:47:51] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:51] Debug: [ Protocol ] 2bcab9d935d2 Server: 1 NOOK
+ [2008-10-24 13:47:51] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:51] Debug: [ Error    ] 2bcab9d935d2:201 Invalid user or password
+ [2008-10-24 13:47:52] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:52] Debug: [ Protocol ] 9fe8593a8a33 Server: 1 NOOK
+ [2008-10-24 13:47:52] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:47:52] Debug: [ Error    ] 9fe8593a8a33:201 Invalid user or password
+ [2008-10-24 13:48:10] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:48:10] Debug: [ Protocol ] a4a042cf4fd6 Server: 1 NOOK
+ [2008-10-24 13:48:10] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:48:10] Debug: [ Error    ] a4a042cf4fd6:201 Invalid user or password
+ [2008-10-24 13:48:10] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:48:11] Debug: [ Protocol ] 621bf66ddb7c Server: 1 NOOK
+ [2008-10-24 13:48:11] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:48:11] Debug: [ Error    ] 621bf66ddb7c:201 Invalid user or password
+ [2008-10-24 13:48:25] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:48:25] Debug: [ Protocol ] aba3b6fd5d18 Server: 1 NOOK
+ [2008-10-24 13:48:25] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:48:25] Debug: [ Error    ] aba3b6fd5d18:201 Invalid user or password
+ [2008-10-24 13:49:14] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:49:14] Debug: [ Protocol ] 819f46e52c25 Server: 1 NOOK
+ [2008-10-24 13:49:14] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:49:14] Debug: [ Error    ] 819f46e52c25:201 Invalid user or password
+ [2008-10-24 13:53:43] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:53:43] Debug: [ Protocol ] 006f52e9102a Server: 1 NOOK
+ [2008-10-24 13:53:43] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:53:43] Debug: [ Error    ] 006f52e9102a:201 Invalid user or password
+ [2008-10-24 13:53:52] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:53:52] Debug: [ Protocol ] ba3866600c35 Server: 1 NOOK
+ [2008-10-24 13:53:52] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:53:52] Debug: [ Error    ] ba3866600c35:201 Invalid user or password
+ [2008-10-24 13:53:53] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:53:53] Debug: [ Protocol ] 8fe0093bb30d Server: 1 NOOK
+ [2008-10-24 13:53:53] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:53:53] Debug: [ Error    ] 8fe0093bb30d:201 Invalid user or password
+ [2008-10-24 13:54:26] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:54:26] Debug: [ Protocol ] 8fecb20817b3 Server: 1 NOOK
+ [2008-10-24 13:54:26] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:54:26] Debug: [ Error    ] 8fecb20817b3:201 Invalid user or password
+ [2008-10-24 13:54:37] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:54:40] Debug: [ Protocol ] 6a10bbd480e4 Server: 1 NOOK
+ [2008-10-24 13:54:40] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:54:40] Debug: [ Error    ] 6a10bbd480e4:201 Invalid user or password
+ [2008-10-24 13:56:23] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:56:23] Debug: [ Protocol ] aba3b6fd5d18 Server: 1 NOOK
+ [2008-10-24 13:56:23] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-24 13:56:23] Debug: [ Error    ] aba3b6fd5d18:201 Invalid user or password
+ [2008-10-27 11:03:29] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-27 11:03:29] Debug: [ Protocol ] d490d7b45762 Server: 1 NOOK
+ [2008-10-27 11:03:29] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-27 11:03:29] Debug: [ Error    ] d490d7b45762:201 Invalid user or password
+ [2008-10-27 11:10:54] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-27 11:10:54] Debug: [ Protocol ] b53b3a3d6ab9 Server: 1 NOOK
+ [2008-10-27 11:10:54] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-27 11:10:54] Debug: [ Error    ] b53b3a3d6ab9:201 Invalid user or password
+ [2008-10-27 11:13:14] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-27 11:13:14] Debug: [ Protocol ] d34ab169b70c Server: 1 NOOK
+ [2008-10-27 11:13:14] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-27 11:13:14] Debug: [ Error    ] d34ab169b70c:201 Invalid user or password
+ [2008-10-27 12:26:39] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Server: 1 OK 3 00
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Client: 3 ALLOWANSWER ON
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Server: 2 USERAGENTOK
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Client: 4 ACUSEON mail@mail.com
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Server: 3 OK
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Client: 5 SUBMIT +34666777888 The text for the sms
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Server: 4 OK mail@mail.com
+ [2008-10-27 12:26:39] Debug: [ Error    ] 320722549d17:115 Mimetype or data not found
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Client: 6 USUBMIT +34666777888 VGhlIHRleHQgZm9yIHRoZSBzbXM=
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Server: 5 SUBMITOK 1 90
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Client: 7 WAPLINK +34666777888 http://o.com/ subject
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Server: 6 USUBMITOK 0 80
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Insuficient credit!
+ [2008-10-27 12:26:39] Debug: [ Error    ] 320722549d17:115 Mimetype or data not found
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Client: 8 ACUSEOFF
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Server: 7 NOOK No se dispone de saldo suficiente
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 NOOK : 8 ACUSEOFF
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Client: 9 ALLOWANSWER OFF
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Server: 8 OK
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Client: 10 FSUBMIT TEST +34666777888 The text for the sms SIN Acuse!
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Server: 9 OK
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Client: 11 TARIFA +34666777888
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Server: 10 NOOK No se dispone de saldo suficiente
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 NOOK : 11 TARIFA +34666777888
+ [2008-10-27 12:26:39] Debug: [ Protocol ] 320722549d17 Client: 12 SALDO
+ [2008-10-27 12:26:40] Debug: [ Protocol ] 320722549d17 Server: 11 RTARIFA 183 1.000000 0.100000 0.500000 0.500000 0.500000 0.000000 5.000000
+ [2008-10-27 12:26:40] Debug: [ Protocol ] 320722549d17 Client: 13 INFONUM +34666777888
+ [2008-10-27 12:26:40] Debug: [ Protocol ] 320722549d17 Server: 12 RSALDO 0 80
+ [2008-10-27 12:26:40] Debug: [ Protocol ] 320722549d17 Insuficient credit!
+ [2008-10-27 12:26:40] Debug: [ Protocol ] 320722549d17 Client: 14 QUIT
+ [2008-10-27 12:26:40] Debug: [ Protocol ] 320722549d17 Server: 13 RINFONUM 34666 214 01
+ [2008-10-27 12:41:58] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-27 12:41:59] Debug: [ Protocol ] c203d8a15161 Server: 1 OK 0 80
+ [2008-10-27 12:41:59] Debug: [ Protocol ] c203d8a15161 Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-27 12:41:59] Debug: [ Protocol ] c203d8a15161 Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-27 12:41:59] Debug: [ Protocol ] c203d8a15161 Client: 3 ALLOWANSWER ON
+ [2008-10-27 12:41:59] Debug: [ Protocol ] c203d8a15161 Server: 2 USERAGENTOK
+ [2008-10-27 12:41:59] Debug: [ Protocol ] c203d8a15161 Client: 4 ACUSEON mail@mail.com
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Server: 3 OK
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Client: 5 SUBMIT +34960160130 The text for the sms
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Server: 4 OK mail@mail.com
+ [2008-10-27 12:42:00] Debug: [ Error    ] c203d8a15161:115 Mimetype or data not found
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Client: 6 USUBMIT +34960160130 VGhlIHRleHQgZm9yIHRoZSBzbXM=
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Server: 5 NOOK No se dispone de saldo suficiente
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 NOOK : 6 USUBMIT +34960160130 VGhlIHRleHQgZm9yIHRoZSBzbXM=
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Client: 7 WAPLINK +34960160130 http://o.com/ subject
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Server: 6 NOOK No se dispone de saldo suficiente
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 NOOK : 7 WAPLINK +34960160130 http://o.com/ subject
+ [2008-10-27 12:42:00] Debug: [ Error    ] c203d8a15161:115 Mimetype or data not found
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Client: 8 ACUSEOFF
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Server: 7 NOOK No se dispone de saldo suficiente
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 NOOK : 8 ACUSEOFF
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Client: 9 ALLOWANSWER OFF
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Server: 8 OK
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Client: 10 FSUBMIT TEST +34960160130 The text for the sms SIN Acuse!
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Server: 9 OK
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Client: 11 TARIFA +34960160130
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Server: 10 NOOK No se dispone de saldo suficiente
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 NOOK : 11 TARIFA +34960160130
+ [2008-10-27 12:42:00] Debug: [ Protocol ] c203d8a15161 Client: 12 SALDO
+ [2008-10-27 12:42:01] Debug: [ Protocol ] c203d8a15161 Server: 11 RTARIFA 188 1.000000 0.100000 0.500000 0.500000 0.500000 0.000000 5.000000
+ [2008-10-27 12:42:01] Debug: [ Protocol ] c203d8a15161 Client: 13 INFONUM +34960160130
+ [2008-10-27 12:42:01] Debug: [ Protocol ] c203d8a15161 Server: 12 RSALDO 0 80
+ [2008-10-27 12:42:01] Debug: [ Protocol ] c203d8a15161 Insuficient credit!
+ [2008-10-27 12:42:01] Debug: [ Protocol ] c203d8a15161 Client: 14 QUIT
+ [2008-10-27 12:42:01] Debug: [ Protocol ] c203d8a15161 Server: 13 RINFONUM 3496016 214 99
+ [2008-10-27 15:51:48] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Server: 1 OK 200 80
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Client: 3 ALLOWANSWER ON
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Server: 2 USERAGENTOK
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Client: 4 ACUSEON mail@mail.com
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Server: 3 OK
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Client: 5 SUBMIT +34617963324 The text for the sms
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Server: 4 OK mail@mail.com
+ [2008-10-27 15:51:49] Debug: [ Error    ] 4e4b5fbbbb60:115 Mimetype or data not found
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Client: 6 USUBMIT +34617963324 VGhlIHRleHQgZm9yIHRoZSBzbXM=
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Server: 5 SUBMITOK 199 70
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Client: 7 WAPLINK +34617963324 http://o.com/ subject
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Server: 6 USUBMITOK 198 60
+ [2008-10-27 15:51:49] Debug: [ Error    ] 4e4b5fbbbb60:115 Mimetype or data not found
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Client: 8 ACUSEOFF
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Server: 7 WAPLINKOK 197 50
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Client: 9 ALLOWANSWER OFF
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Server: 8 OK
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Client: 10 FSUBMIT TEST +34617963324 The text for the sms SIN Acuse!
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Server: 9 OK
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Client: 11 TARIFA +34617963324
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Server: 10 FSUBMITOK 196 00
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Client: 12 SALDO
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Server: 11 RTARIFA 183 1.000000 0.100000 0.500000 0.500000 0.500000 0.000000 5.000000
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Client: 13 INFONUM +34617963324
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Server: 12 RSALDO 196 00
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Client: 14 QUIT
+ [2008-10-27 15:51:49] Debug: [ Protocol ] 4e4b5fbbbb60 Server: 13 RINFONUM 34617 214 01
+ [2008-10-28 15:23:05] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Server: 1 OK 196 00
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Client: 3 ALLOWANSWER ON
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Server: 2 USERAGENTOK
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Client: 4 ACUSEON sgi@f1-connecting.com
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Server: 3 OK
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Client: 5 SUBMIT +34617963324 The text for the sms
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Server: 4 OK sgi@f1-connecting.com
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Client: 6 ACUSEOFF
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Server: 5 SUBMITOK 194 90
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Client: 7 ALLOWANSWER OFF
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Server: 6 OK
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Client: 8 FSUBMIT TEST +34617963324 The text for the sms SIN Acuse!
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Server: 7 OK
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Client: 9 TARIFA +34617963324
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Server: 8 FSUBMITOK 193 40
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Client: 10 SALDO
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Server: 9 RTARIFA 183 1.000000 0.100000 0.500000 0.500000 0.500000 0.000000 5.000000
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Client: 11 INFONUM +34617963324
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Server: 10 RSALDO 193 40
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Client: 12 QUIT
+ [2008-10-28 15:23:05] Debug: [ Protocol ] 7f24d240521d Server: 11 RINFONUM 34617 214 01
+ [2008-10-28 15:30:01] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-28 15:30:02] Debug: [ Protocol ] c3e878e27f52 Server: 1 OK 193 40
+ [2008-10-28 15:30:02] Debug: [ Protocol ] c3e878e27f52 Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-28 15:30:02] Debug: [ Protocol ] c3e878e27f52 Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-28 15:30:02] Debug: [ Protocol ] c3e878e27f52 Client: 3 ALLOWANSWER ON
+ [2008-10-28 15:30:02] Debug: [ Protocol ] c3e878e27f52 Server: 2 USERAGENTOK
+ [2008-10-28 15:30:02] Debug: [ Protocol ] c3e878e27f52 Client: 4 ACUSEON mail@mail.com
+ [2008-10-28 15:30:02] Debug: [ Protocol ] c3e878e27f52 Server: 3 OK
+ [2008-10-28 15:30:02] Debug: [ Protocol ] c3e878e27f52 Client: 5 SUBMIT +34617963324 The text for the sms
+ [2008-10-28 15:30:06] Debug: [ Protocol ] c3e878e27f52 Server: 4 OK mail@mail.com
+ [2008-10-28 15:30:06] Debug: [ Error    ] c3e878e27f52:115 Mimetype or data not found
+ [2008-10-28 15:30:06] Debug: [ Protocol ] c3e878e27f52 Client: 6 USUBMIT +34617963324 VGhlIHRleHQgZm9yIHRoZSBzbXM=
+ [2008-10-28 15:30:11] Debug: [ Protocol ] c3e878e27f52 Server: 2 PING 1225204193
+ [2008-10-28 15:30:11] Debug: [ Protocol ] c3e878e27f52 Client: 7 PONG 1225204193
+ [2008-10-28 15:30:11] Debug: [ Protocol ] c3e878e27f52 Server: 5 SUBMITOK 192 30
+ [2008-10-28 15:30:11] Debug: [ Protocol ] c3e878e27f52 Client: 8 WAPLINK +34617963324 http://o.com/ subject
+ [2008-10-28 15:30:11] Debug: [ Protocol ] c3e878e27f52 Server: 6 USUBMITOK 191 20
+ [2008-10-28 15:30:11] Debug: [ Error    ] c3e878e27f52:115 Mimetype or data not found
+ [2008-10-28 15:30:11] Debug: [ Protocol ] c3e878e27f52 Client: 9 ACUSEOFF
+ [2008-10-28 15:30:12] Debug: [ Protocol ] c3e878e27f52 Server: 8 WAPLINKOK 190 10
+ [2008-10-28 15:30:12] Debug: [ Protocol ] c3e878e27f52 Client: 10 ALLOWANSWER OFF
+ [2008-10-28 15:30:12] Debug: [ Protocol ] c3e878e27f52 Server: 9 OK
+ [2008-10-28 15:30:12] Debug: [ Protocol ] c3e878e27f52 Client: 11 FSUBMIT TEST +34617963324 The text for the sms SIN Acuse!
+ [2008-10-28 15:30:12] Debug: [ Protocol ] c3e878e27f52 Server: 10 OK
+ [2008-10-28 15:30:12] Debug: [ Protocol ] c3e878e27f52 Client: 12 TARIFA +34617963324
+ [2008-10-28 15:30:12] Debug: [ Protocol ] c3e878e27f52 Server: 11 FSUBMITOK 188 60
+ [2008-10-28 15:30:12] Debug: [ Protocol ] c3e878e27f52 Client: 13 SALDO
+ [2008-10-28 15:30:12] Debug: [ Protocol ] c3e878e27f52 Server: 12 RTARIFA 183 1.000000 0.100000 0.500000 0.500000 0.500000 0.000000 5.000000
+ [2008-10-28 15:30:12] Debug: [ Protocol ] c3e878e27f52 Client: 14 INFONUM +34617963324
+ [2008-10-28 15:30:12] Debug: [ Protocol ] c3e878e27f52 Server: 13 RSALDO 188 60
+ [2008-10-28 15:30:12] Debug: [ Protocol ] c3e878e27f52 Client: 15 QUIT
+ [2008-10-28 15:30:12] Debug: [ Protocol ] c3e878e27f52 Server: 14 RINFONUM 34617 214 01
+ [2008-10-28 15:30:51] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-28 15:30:51] Debug: [ Protocol ] 9a96876e2f8f Server: 1 OK 188 60
+ [2008-10-28 15:30:51] Debug: [ Protocol ] 9a96876e2f8f Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-28 15:30:51] Debug: [ Protocol ] 9a96876e2f8f Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-28 15:30:51] Debug: [ Protocol ] 9a96876e2f8f Client: 3 ALLOWANSWER ON
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Server: 2 USERAGENTOK
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Client: 4 ACUSEON mail@mail.com
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Server: 3 OK
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Client: 5 SUBMIT +34617963324 The text for the sms
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Server: 4 OK mail@mail.com
+ [2008-10-28 15:30:52] Debug: [ Error    ] 9a96876e2f8f:115 Mimetype or data not found
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Client: 6 USUBMIT +34617963324 VGhlIHRleHQgZm9yIHRoZSBzbXM=
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Server: 5 SUBMITOK 187 50
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Client: 7 WAPLINK +34617963324 http://o.com/ subject
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Server: 6 USUBMITOK 186 40
+ [2008-10-28 15:30:52] Debug: [ Error    ] 9a96876e2f8f:115 Mimetype or data not found
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Client: 8 ACUSEOFF
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Server: 7 WAPLINKOK 185 30
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Client: 9 ALLOWANSWER OFF
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Server: 8 OK
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Client: 10 FSUBMIT TEST +34617963324 The text for the sms SIN Acuse!
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Server: 9 OK
+ [2008-10-28 15:30:52] Debug: [ Protocol ] 9a96876e2f8f Client: 11 TARIFA +34617963324
+ [2008-10-28 15:30:53] Debug: [ Protocol ] 9a96876e2f8f Server: 10 FSUBMITOK 183 80
+ [2008-10-28 15:30:53] Debug: [ Protocol ] 9a96876e2f8f Client: 12 SALDO
+ [2008-10-28 15:30:53] Debug: [ Protocol ] 9a96876e2f8f Server: 11 RTARIFA 183 1.000000 0.100000 0.500000 0.500000 0.500000 0.000000 5.000000
+ [2008-10-28 15:30:53] Debug: [ Protocol ] 9a96876e2f8f Client: 13 INFONUM +34617963324
+ [2008-10-28 15:30:53] Debug: [ Protocol ] 9a96876e2f8f Server: 12 RSALDO 183 80
+ [2008-10-28 15:30:53] Debug: [ Protocol ] 9a96876e2f8f Client: 14 QUIT
+ [2008-10-28 15:30:53] Debug: [ Protocol ] 9a96876e2f8f Server: 13 RINFONUM 34617 214 01
+ [2008-10-28 15:33:12] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-28 15:33:12] Debug: [ Protocol ] 7f1171a78ce0 Server: 1 OK 183 80
+ [2008-10-28 15:33:12] Debug: [ Protocol ] 7f1171a78ce0 Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-28 15:33:12] Debug: [ Protocol ] 7f1171a78ce0 Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-28 15:33:12] Debug: [ Protocol ] 7f1171a78ce0 Client: 3 SUBMIT +34617963324 Mensaje totolabá. c&aacute;sa.
+ [2008-10-28 15:33:12] Debug: [ Protocol ] 7f1171a78ce0 Server: 2 USERAGENTOK
+ [2008-10-28 15:33:12] Debug: [ Protocol ] 7f1171a78ce0 Client: 4 TARIFA +34617963324
+ [2008-10-28 15:33:12] Debug: [ Protocol ] 7f1171a78ce0 Server: 3 SUBMITOK 182 80
+ [2008-10-28 15:33:12] Debug: [ Protocol ] 7f1171a78ce0 Client: 5 SALDO
+ [2008-10-28 15:33:13] Debug: [ Protocol ] 7f1171a78ce0 Server: 4 RTARIFA 183 1.000000 0.100000 0.500000 0.500000 0.500000 0.000000 5.000000
+ [2008-10-28 15:33:13] Debug: [ Protocol ] 7f1171a78ce0 Client: 6 INFONUM +34617963324
+ [2008-10-28 15:33:13] Debug: [ Protocol ] 7f1171a78ce0 Server: 5 RSALDO 182 80
+ [2008-10-28 15:33:13] Debug: [ Protocol ] 7f1171a78ce0 Client: 7 QUIT
+ [2008-10-28 15:33:13] Debug: [ Protocol ] 7f1171a78ce0 Server: 6 RINFONUM 34617 214 01
+ [2008-10-28 15:37:04] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-28 15:37:04] Debug: [ Protocol ] 04ecb1fa2850 Server: 1 OK 182 80
+ [2008-10-28 15:37:04] Debug: [ Protocol ] 04ecb1fa2850 Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-28 15:37:04] Debug: [ Protocol ] 04ecb1fa2850 Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-28 15:37:04] Debug: [ Protocol ] 04ecb1fa2850 Client: 3 ALLOWANSWER ON
+ [2008-10-28 15:37:04] Debug: [ Protocol ] 04ecb1fa2850 Server: 2 USERAGENTOK
+ [2008-10-28 15:37:04] Debug: [ Protocol ] 04ecb1fa2850 Client: 4 ACUSEON sgi@f1-connecting.com
+ [2008-10-28 15:37:04] Debug: [ Protocol ] 04ecb1fa2850 Server: 3 OK
+ [2008-10-28 15:37:04] Debug: [ Protocol ] 04ecb1fa2850 Client: 5 USUBMIT +34617963324 TWVuc2FqZSB0b3RvbGFi4S4gYyZhYWN1dGU7c2Eu
+ [2008-10-28 15:37:04] Debug: [ Protocol ] 04ecb1fa2850 Server: 4 OK sgi@f1-connecting.com
+ [2008-10-28 15:37:04] Debug: [ Protocol ] 04ecb1fa2850 Client: 6 ACUSEOFF
+ [2008-10-28 15:37:04] Debug: [ Protocol ] 04ecb1fa2850 Server: 5 USUBMITOK 181 70
+ [2008-10-28 15:37:04] Debug: [ Protocol ] 04ecb1fa2850 Client: 7 ALLOWANSWER OFF
+ [2008-10-28 15:37:05] Debug: [ Protocol ] 04ecb1fa2850 Server: 6 OK
+ [2008-10-28 15:37:05] Debug: [ Protocol ] 04ecb1fa2850 Client: 8 TARIFA +34617963324
+ [2008-10-28 15:37:05] Debug: [ Protocol ] 04ecb1fa2850 Server: 7 OK
+ [2008-10-28 15:37:05] Debug: [ Protocol ] 04ecb1fa2850 Client: 9 SALDO
+ [2008-10-28 15:37:05] Debug: [ Protocol ] 04ecb1fa2850 Server: 8 RTARIFA 183 1.000000 0.100000 0.500000 0.500000 0.500000 0.000000 5.000000
+ [2008-10-28 15:37:05] Debug: [ Protocol ] 04ecb1fa2850 Client: 10 INFONUM +34617963324
+ [2008-10-28 15:37:05] Debug: [ Protocol ] 04ecb1fa2850 Server: 9 RSALDO 181 70
+ [2008-10-28 15:37:05] Debug: [ Protocol ] 04ecb1fa2850 Client: 11 QUIT
+ [2008-10-28 15:37:05] Debug: [ Protocol ] 04ecb1fa2850 Server: 10 RINFONUM 34617 214 01
+ [2008-10-28 15:39:15] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Server: 1 OK 181 70
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Client: 3 ALLOWANSWER ON
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Server: 2 USERAGENTOK
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Client: 4 ACUSEON sgi@f1-connecting.com
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Server: 3 OK
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Client: 5 SUBMIT +34617963324 Mensaje totolabá. c&aacute;sa.
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Server: 4 OK sgi@f1-connecting.com
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Client: 6 ACUSEOFF
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Server: 5 SUBMITOK 180 60
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Client: 7 ALLOWANSWER OFF
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Server: 6 OK
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Client: 8 TARIFA +34617963324
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Server: 7 OK
+ [2008-10-28 15:39:15] Debug: [ Protocol ] 5ef059938ba7 Client: 9 SALDO
+ [2008-10-28 15:39:16] Debug: [ Protocol ] 5ef059938ba7 Server: 8 RTARIFA 183 1.000000 0.100000 0.500000 0.500000 0.500000 0.000000 5.000000
+ [2008-10-28 15:39:16] Debug: [ Protocol ] 5ef059938ba7 Client: 10 INFONUM +34617963324
+ [2008-10-28 15:39:16] Debug: [ Protocol ] 5ef059938ba7 Server: 9 RSALDO 180 60
+ [2008-10-28 15:39:16] Debug: [ Protocol ] 5ef059938ba7 Client: 11 QUIT
+ [2008-10-28 15:39:16] Debug: [ Protocol ] 5ef059938ba7 Server: 10 RINFONUM 34617 214 01
+ [2008-10-28 15:42:20] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Server: 1 OK 180 60
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Client: 3 ALLOWANSWER ON
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Server: 2 USERAGENTOK
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Client: 4 ACUSEON sgi@f1-connecting.com
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Server: 3 OK
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Client: 5 ACUSEOFF
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Server: 4 OK sgi@f1-connecting.com
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Client: 6 ALLOWANSWER OFF
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Server: 5 OK
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Client: 7 SUBMIT +34617963324 Mensaje totolabá. c&aacute;sa.
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Server: 6 OK
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Client: 8 INFONUM +34617963324
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Server: 7 SUBMITOK 179 60
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Client: 9 QUIT
+ [2008-10-28 15:42:20] Debug: [ Protocol ] 3644a684f98e Server: 8 RINFONUM 34617 214 01
+ [2008-10-28 15:47:25] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-28 15:47:25] Debug: [ Protocol ] 051e4e127b92 Server: 1 OK 179 60
+ [2008-10-28 15:47:25] Debug: [ Protocol ] 051e4e127b92 Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-28 15:47:25] Debug: [ Protocol ] 051e4e127b92 Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-28 15:47:25] Debug: [ Protocol ] 051e4e127b92 Client: 3 ALLOWANSWER ON
+ [2008-10-28 15:47:25] Debug: [ Protocol ] 051e4e127b92 Server: 2 USERAGENTOK
+ [2008-10-28 15:47:25] Debug: [ Protocol ] 051e4e127b92 Client: 4 ACUSEON sgi@f1-connecting.com
+ [2008-10-28 15:47:25] Debug: [ Protocol ] 051e4e127b92 Server: 3 OK
+ [2008-10-28 15:47:25] Debug: [ Protocol ] 051e4e127b92 Client: 5 FSUBMIT enrique +34617963324 Mensaje totolabá. c&aacute;sa.
+ [2008-10-28 15:47:25] Debug: [ Protocol ] 051e4e127b92 Server: 4 OK sgi@f1-connecting.com
+ [2008-10-28 15:47:25] Debug: [ Protocol ] 051e4e127b92 Client: 6 ACUSEOFF
+ [2008-10-28 15:47:25] Debug: [ Protocol ] 051e4e127b92 Server: 5 FSUBMITOK 178 00
+ [2008-10-28 15:47:25] Debug: [ Protocol ] 051e4e127b92 Client: 7 ALLOWANSWER OFF
+ [2008-10-28 15:47:26] Debug: [ Protocol ] 051e4e127b92 Server: 6 OK
+ [2008-10-28 15:47:26] Debug: [ Protocol ] 051e4e127b92 Client: 8 RSALDO
+ [2008-10-28 15:47:26] Debug: [ Protocol ] 051e4e127b92 Server: 7 OK
+ [2008-10-28 15:47:26] Debug: [ Protocol ] 051e4e127b92 Client: 9 QUIT
+ [2008-10-28 15:47:26] Debug: [ Protocol ] 051e4e127b92 Server: 8 NOOK Sintax error
+ [2008-10-28 15:47:26] Debug: [ Protocol ] 051e4e127b92 NOOK : 9 QUIT
+ [2008-10-28 15:49:55] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Server: 1 OK 178 00
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Client: 3 ALLOWANSWER ON
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Server: 2 USERAGENTOK
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Client: 4 ACUSEON sgi@f1-connecting.com
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Server: 3 OK
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Client: 5 FSUBMIT Pepe%Garc +34617963324 De acuerdo sigamos con el juego. 100 euros y nadie ha visto nada. De esto no digas nada a nadie. Saludos.
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Server: 4 OK sgi@f1-connecting.com
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Client: 6 ACUSEOFF
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Server: 5 FSUBMITOK 176 40
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Client: 7 ALLOWANSWER OFF
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Server: 6 OK
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Client: 8 SALDO
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Server: 7 OK
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Client: 9 QUIT
+ [2008-10-28 15:49:55] Debug: [ Protocol ] 819f46e52c25 Server: 8 RSALDO 176 40
+ [2008-10-28 15:53:50] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Server: 1 OK 176 40
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Client: 3 ALLOWANSWER ON
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Server: 2 USERAGENTOK
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Client: 4 ACUSEON sgi@f1-connecting.com
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Server: 3 OK
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Client: 5 FSUBMIT Pepe Garcia 123 +34669507269 No digas nada pero xavi va a ir a la puta calle, y vas a ser el nuevo responsable de correctivos.
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Server: 4 OK sgi@f1-connecting.com
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Client: 6 ACUSEOFF
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Server: 5 NOOK Invalid dst
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d NOOK : 6 ACUSEOFF
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Client: 7 ALLOWANSWER OFF
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Server: 6 OK
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Client: 8 SALDO
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Server: 7 OK
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Client: 9 QUIT
+ [2008-10-28 15:53:50] Debug: [ Protocol ] 192fc044e74d Server: 8 RSALDO 176 40
+ [2008-10-28 15:55:46] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-28 15:55:48] Debug: [ Protocol ] c0f168ce8900 Server: 1 OK 176 40
+ [2008-10-28 15:55:48] Debug: [ Protocol ] c0f168ce8900 Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-28 15:55:48] Debug: [ Protocol ] c0f168ce8900 Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-28 15:55:48] Debug: [ Protocol ] c0f168ce8900 Client: 3 ALLOWANSWER ON
+ [2008-10-28 15:55:49] Debug: [ Protocol ] c0f168ce8900 Server: 2 USERAGENTOK
+ [2008-10-28 15:55:49] Debug: [ Protocol ] c0f168ce8900 Client: 4 ACUSEON sgi@f1-connecting.com
+ [2008-10-28 15:55:49] Debug: [ Protocol ] c0f168ce8900 Server: 3 OK
+ [2008-10-28 15:55:49] Debug: [ Protocol ] c0f168ce8900 Client: 5 FSUBMIT Pepe%Garc +34669507269 No digas nada pero xavi va a ir a la puta calle, y vas a ser el nuevo responsable de correctivos.
+ [2008-10-28 15:55:49] Debug: [ Protocol ] c0f168ce8900 Server: 4 OK sgi@f1-connecting.com
+ [2008-10-28 15:55:49] Debug: [ Protocol ] c0f168ce8900 Client: 6 ACUSEOFF
+ [2008-10-28 15:55:49] Debug: [ Protocol ] c0f168ce8900 Server: 5 FSUBMITOK 174 80
+ [2008-10-28 15:55:49] Debug: [ Protocol ] c0f168ce8900 Client: 7 ALLOWANSWER OFF
+ [2008-10-28 15:55:49] Debug: [ Protocol ] c0f168ce8900 Server: 6 OK
+ [2008-10-28 15:55:49] Debug: [ Protocol ] c0f168ce8900 Client: 8 SALDO
+ [2008-10-28 15:55:49] Debug: [ Protocol ] c0f168ce8900 Server: 7 OK
+ [2008-10-28 15:55:49] Debug: [ Protocol ] c0f168ce8900 Client: 9 QUIT
+ [2008-10-28 15:55:49] Debug: [ Protocol ] c0f168ce8900 Server: 8 RSALDO 174 80
+ [2008-10-29 12:15:55] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-29 12:15:55] Debug: [ Protocol ] 4558dbb6f6f8 Server: 1 OK 174 80
+ [2008-10-29 12:15:55] Debug: [ Protocol ] 4558dbb6f6f8 Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-29 12:15:56] Debug: [ Protocol ] 4558dbb6f6f8 Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-29 12:15:56] Debug: [ Protocol ] 4558dbb6f6f8 Client: 3 QUIT
+ [2008-10-29 12:15:56] Debug: [ Protocol ] 4558dbb6f6f8 Server: 2 USERAGENTOK
+ [2008-10-29 12:17:15] Debug: LOGIN [...] Logger version 1.5
+ [2008-10-29 12:17:15] Debug: [ Protocol ] e94550c93cd7 Server: 1 OK 174 80
+ [2008-10-29 12:17:15] Debug: [ Protocol ] e94550c93cd7 Client: 2 USERAGENT Simple API PHP version 2.0.10
+ [2008-10-29 12:17:15] Debug: [ Protocol ] e94550c93cd7 Server: 1 INCOMINGMO 3186823 1225105686 +34973901020 +34960160130 Bienvenido al servicio de movil SMS virtual de Lleida.net. Tu numero para recibir mensajes es el 960160130. Pruebalo enviandote un SMS al 960160130 con el +34 si lo envias desde fuera de España.
+ [2008-10-29 12:17:15] Debug: [ Protocol ] e94550c93cd7 Client: 3 QUIT
+ [2008-10-29 12:17:15] Debug: [ Protocol ] e94550c93cd7 Server: 2 USERAGENTOK

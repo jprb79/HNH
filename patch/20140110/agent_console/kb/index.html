@@ -1,0 +1,84 @@
+<head>
+<style type="text/css">
+        /* Menu container */
+    .menu	{
+        width:300px;
+        height:175px;
+        border:solid #FF9900 1px;
+        padding:10px 5px 10px 5px;
+        margin:12px 12px 12px 50px;
+    }
+
+        /* Menu styles */
+    .menu ul
+    {
+        margin:0px;
+        padding:0px;
+    }
+    .menu li
+    {
+        margin:0px 0px 0px 5px;
+        padding:0px;
+        list-style-type:none;
+        text-align:left;
+        font-family:Arial,Helvetica,sans-serif;
+        font-size:13px;
+        font-weight:normal;
+    }
+
+        /* Submenu styles */
+    .menu ul ul
+    { background-color:#F6F6F6; }
+    .menu li li
+    { margin:0px 0px 0px 16px; }
+
+        /* Symbol styles */
+    .menu .symbol-item,
+    .menu .symbol-open,
+    .menu .symbol-close
+    {
+        float:left;
+        width:16px;
+        height:1em;
+        background-position:left center;
+        background-repeat:no-repeat;
+    }
+    .menu .symbol-item  { background-image:url(icons/page.png); }
+    .menu .symbol-open  { background-image:url(icons/minus.png); }
+    .menu .symbol-close { background-image:url(icons/plus.png);}
+
+        /* Menu line styles */
+    .menu li.open  { font-weight:bold; }
+    .menu li.close { font-weight:normal; }
+</style>
+
+<script type="text/javascript" src="TreeMenu.js"></script>
+
+</head>
+<body>
+<div class="menu">
+    <ul id="example1">
+        <li>Qui định chuyến bay
+            <ul>
+                <li><a href="vn.html">Vietnam Airline</a></li>
+                <li><a href="http://jetstar.biz.vn/quy-dinh-ve-hanh-ly-cua-jetstar-n1584">Jetstar</a></li>
+                <li><a href="http://www.vietjetair.com/Sites/Web/vi-vn/News/mua-ve-o-dau/652/faq">Vietjet</a></li>
+            </ul>
+        </li>
+        <li>Thông tin vé
+            <ul>
+                <li><a href="http://www.vietjetair.com/Sites/Web/vi-VN/Home">Vietjet Airt</a></li>
+                <li><a href="http://www.tigerair.com/sg/en/">Tiger Asia</a>
+                    <ul>
+                        <li><a href="#">Khứ hồi</a></li>
+                        <li><a href="#">Hạng thương gia</a></li>
+                        <li><a href="#">hạng phổ thông</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://vemaybay.vn">Hồng Ngọc Hà</a></li>
+            </ul>
+        </li>
+    </ul>
+    <script type="text/javascript">make_tree_menu('example1');</script>
+</div class="menu">
+</body>

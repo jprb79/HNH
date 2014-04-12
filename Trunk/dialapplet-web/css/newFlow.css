@@ -1,0 +1,562 @@
+/* 
+    Document   : newFlow
+    Created on : 15-jul-2011, 9:16:23
+    Author     : jmartinez
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+body{
+    	font-size:12px;
+	font-family: sans-serif;
+        color:#636363;
+}
+
+img 
+{
+    border:0px;
+}
+
+table{
+    font-size:12px;
+}
+
+#pregunta a
+{
+    color:#636363;
+    text-decoration: none;
+    margin-top:10px;
+}
+#pregunta
+{
+    padding:0px;
+}
+
+#ourLogo,
+#otherLogo
+{
+	background-position: left center;
+	background-repeat:no-repeat;
+	float:left;
+	width:250px;
+	height:80px;
+	overflow:hidden;
+}
+#ourLogo
+{
+	background-image: url(../imagenes/logo_main2.png);
+}
+#otherLogo
+{
+	background-image: url(../imagenes/main_logo.png);
+}
+
+#qNumber
+{
+    float:right; 
+    margin-right: 3.5%;
+    color: #334E80;
+}
+#attached span,
+#qNumber span{
+    font-weight:  bold;
+}
+#attached
+{
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+
+#attached ul,
+#attached li
+{
+    display: inline;
+}
+#attached li
+{
+    margin-left:5px;
+    margin-right:5px;
+}
+
+
+
+.cleaner
+{
+    clear:both;
+}
+.h1
+{
+    color:white;
+    font-weight: bold;
+    padding:2px;
+    background-color: #669CFF;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+.h12
+{
+	border-top-left-radius:12px;
+	-moz-border-radius-topleft:12px; /* Firefox 3.6 and earlier*/
+	border: 1px solid #669CFF;
+	width:97%;
+	padding-top:10px;
+	height:25px;
+	margin:auto;
+	margin-top:10px;
+	font-weight:bold;
+	font-size:15px;
+	background-color:#669CFF;
+	color:white;
+	text-shadow:2px 2px 2px #555;
+}
+.h1
+{
+    border-top-right-radius:12px;
+    -moz-border-radius-topright:12px;
+}
+.tabla-principal
+{
+    border-collapse:collapse;
+    width:97%;
+    margin-top:0px;
+    margin-bottom:0px;
+    font-size: 12px;
+}
+
+.tabla-principal_flow
+{
+	border-collapse:collapse;
+	width:97%;
+	border: 1px solid #669CFF;
+	margin-top:0px;
+	margin-bottom:10px;
+        margin-left: auto;
+        margin-right: auto;
+	
+}
+.show-cell
+{
+    text-align: center;
+    width:50%;
+}
+textarea
+{
+    border:1px solid #669CFF;
+    width:100%;
+    margin:auto;
+    
+}
+#callbackusertable
+{
+    margin:auto;
+}
+.show-cell input
+{
+    border:1px solid #669CFF;
+    width:90%;
+    margin:auto;
+    
+}
+#col_central .h1,
+#col_izquierda .h1,
+#col_derecha .h1,
+#nextAssigned .h1,
+#historyDiv .h1
+{
+   font-size: large;
+}
+
+#col_central
+{
+    margin:0px;
+}
+
+#mega_col_central,
+#col_izquierda,
+#col_derecha,
+#commercial,
+#bottomLeft
+{
+    float:left;
+    margin:0.25%;
+}
+#col_central,
+#col_izquierda,
+#col_derecha,
+#commercial,
+#underQuestion,
+#userCalendar
+{
+    /*border:1px solid #669CFF;*/
+}
+
+#tabla-calendario
+{
+    width:100%;
+    text-align: center;
+    font-size:12px !important;
+}
+#userCalendar .h1
+{
+}
+#tabla-calendario a
+{
+    color: #636363;
+}
+#userCalendar
+{
+    margin-bottom: 10px;
+    width:100%;
+}
+#userCalendar
+{
+    height: 170px;
+}
+
+
+#col_central,
+#col_izquierda,
+#col_derecha
+{
+  /*height: 320px;*/
+}
+#nextAssigned,
+#commercial,
+#historyDiv
+{
+    min-height: 352px;
+}
+#bottomLeft,
+#col_izquierda
+{
+    width:20%;
+    min-width: 220px;
+}
+#mega_col_central,
+#commercial
+{
+    width: 57.5%;
+    
+}
+#underQuestion
+{
+    margin-top:5px;
+}
+
+#historyDiv
+{
+    float:left;
+    width:69%;
+}
+#llamadas_realizadas
+{
+min-height: 326px;
+}
+
+#llamadas_realizadas .number
+{
+    font-weight: bold;
+}
+
+#nextAssigned
+{
+    float:right;
+    width: 29%;
+}
+
+#planningButton
+{
+    float:right;
+    text-align: center;
+    margin:10px;
+}
+
+#planningButton a
+{
+    text-decoration: none;
+    color:#636363;
+}
+
+body{
+    background-position: top left;
+    background-image: url(../imagenes/showTop.png);
+    background-repeat: repeat-x;
+}
+/*
+#mega_col_central
+{
+    background-position: top left;
+    background-image: url(../imagenes/subContentBackground.png);
+    background-repeat: repeat-y;
+}*/
+#col_central_inner,
+#col_izquierda_inner,
+#col_derecha_inner
+{
+    padding:5px;
+}
+.findContactForm
+{
+    padding:5px;
+}
+
+#historyDiv,
+#nextAssigned,
+#col_central_inner,
+#col_izquierda_inner,
+#col_derecha_inner,
+.findContactForm
+{
+    border-left:1px solid #669CFF;
+}
+.date{
+    padding-left: 10%;
+}
+.nextAssignedTable
+{
+    padding-left: 3%;
+}
+.answersList li
+{
+    list-style-image: none;
+    list-style-type: none;
+    
+}
+
+
+#nextAssigned,
+#historyDiv,
+#col_central,
+#col_izquierda,
+#col_derecha
+{
+    background-position: top left;
+    background-image: url(../imagenes/showflow_left2.png);
+    background-repeat: repeat-y;
+    /*border-left:1px solid #669CFF;*/
+}
+
+#col_derecha
+{
+    width: 19%;
+}
+#col_central_inner,
+#col_izquierda_inner,
+#col_derecha_inner
+{
+    
+    min-height:300px;
+    overflow: auto;
+}
+#questionDiv
+{
+    
+}
+
+.eventcell
+{
+    width:15% !important;
+    overflow: hidden;
+    text-align: center;
+}
+
+.nowork
+{
+    background-color: #A6C6FF !important;
+}
+.hour,
+#tabla-eventos th
+{
+    color:white;
+    background-color: #669CFF !important;
+    border-bottom: 1px solid white;
+}
+#tabla-eventos
+{
+    font-size:9px;
+    border-collapse: collapse;
+    margin:auto;
+    width:100%;
+}
+
+#tabla-eventos td
+{
+    background-color: #D0E1FF;
+    border-bottom: 1px solid white;
+}
+
+#pasar-pagina #pagina-anterior
+{
+    float: left;
+    margin-left: 1%;
+}
+
+#pasar-pagina #pagina-siguiente
+{
+    float: right;
+    margin-right: 1%;
+}
+
+#cform{
+    text-align:center !important;
+    width:100%;
+}
+
+.nextAssignedTable
+{
+    width:100%;
+    border-collapse: collapse;
+}
+
+.nextAssignedTable .impar
+{
+    background-color: #D0E1FF;
+}
+.nextAssignedTable .date
+{
+    text-align: right;
+    padding-right: 20px;
+}
+
+.nextAssignedTable .number
+{
+    font-weight: bold;
+    padding-left: 1%;
+}
+.innerHistoryDiv .imparh
+{
+    background-color: #D0E1FF;
+}
+.innerHistoryDiv h3
+{
+    font-size: 12px;
+    font-weight: normal;
+    margin:0px;
+    padding:5px;
+    background-image: url("../imagenes/menus/closed_menu.png");
+    background-repeat: no-repeat;
+    background-position: 95% 40%;
+}
+
+.innerHistoryDiv .ui-state-active
+{
+    background-image: url("../imagenes/menus/open_menu.png") !important;
+}
+.cupsFormDiv
+{
+    padding:5px;
+    border-left: 1px solid #669CFF;
+}
+.cupsFormDiv input
+{
+    border: 1px solid #669CFF;
+    margin:auto;
+ 
+ 
+}
+#col_derecha_inner input
+{
+    border: 1px solid #669CFF;
+    width:100%;
+}
+
+
+#col_derecha_inner select
+{
+    border: 1px solid #669CFF;
+    width:100%;
+}
+
+#pasar-pagina a
+{
+    text-decoration: none;
+    color:#636363;
+}
+#pasar-pagina
+{
+    margin-top:10px;
+}
+.flecha-izquierda,
+.flecha-derecha
+{
+    margin:1%;
+}
+
+.flecha-derecha{
+    float:right;
+}
+.flecha-izquierda
+{
+    float:left;
+}
+
+#tabla-calendario a
+{
+    text-decoration: none;
+}
+#tabla-calendario td{
+    background-color: #D0E1FF;
+}
+#tabla-calendario .otro-mes
+{
+    background-color: white;
+}
+
+#container
+{
+    /*
+    background-position: left top;
+    background-repeat:repeat-y;
+    background-image: url(../imagenes/showflow_left.png);
+    padding-left:9%;
+    */    
+}
+.flowSelector
+{
+   width:100%;
+   border:1px solid #669CFF;
+}
+
+.contentCutter
+{
+    width: 60%;
+    margin:auto;
+}
+
+.rojo_negrita
+{
+    color: #BB1133;
+    font-weight: bold;
+    text-align: center;
+}
+
+#listOfContacts
+{
+    max-height: 170px;
+    overflow:auto;
+}
+#selectableContactList
+{
+    max-height: 150px;
+    width: 97%;
+    padding-left:0px;
+    margin-top:0px;
+    margin-bottom:0px;
+    heigth:0px;
+    display:block;
+   
+    list-style: none outside none;
+    border: 1px dotted #669CFF;
+}
+
+#selectableContactList li:hover
+#selectableContactList .selected
+{
+    border: 1px dotted #669CFF;
+}
+

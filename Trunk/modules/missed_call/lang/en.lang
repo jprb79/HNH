@@ -1,0 +1,31 @@
+<?php
+
+global $arrLangModule;
+$arrLangModule=array(
+"Missed Calls" => "Cuộc gọi nhỡ",
+"Date" => "Ngày",
+"Source" => "Gọi từ",
+"Start Date" => "Từ ngày",
+"End Date" => "Đến ngày",
+"Destination" => "Gọi đến",
+"Time since last call" => "Thời gian từ lần gọi cuối",
+"Number of attempts" => "Số lần gọi nhỡ",
+"year(s)" => "năm",
+"month(s)" => "tháng",
+"day(s)" => "ngày",
+"hour(s)" => "giờ",
+"minute(s)" => "phút",
+"second(s)" => "giây",
+"Status" => "Tình trạng",
+"NO ANSWER" => "NO ANSWER",
+"NO ANSWER - VOICEMAIL" => "NO ANSWER AND VOICEMAIL",
+"UNKNOWN" => "UNKNOWN",
+"ANSWERED" => "ANSWERED",
+"The following fields contain errors" => "Các trường sau bị lỗi",
+"Search" => "Tìm theo",
+"Queue" =>  "Nhóm",
+"Action"    =>  "Hành động",
+"Duration wait"    =>  "Thời gian chờ cuối",
+"Queue" =>  "Nhóm",
+);
+?>

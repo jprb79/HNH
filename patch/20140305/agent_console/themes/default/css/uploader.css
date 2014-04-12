@@ -1,0 +1,23 @@
+table.Grid
+{
+	border-width: 5px;
+	border-style: none;
+	background-color: White;
+	border-color: gray;
+	font-family:Segoe UI, Arial,Verdana,Helvetica,sans-serif;
+	font-size: 90%;
+}
+
+table.Grid TD, table.Grid TH
+{
+	padding: 4px 6px 4px 6px;
+	border: solid 1px #E1E1E1;
+	vertical-align: top;
+}
+
+table.Grid TH
+{
+	background-color: #E1E1E1;
+	font-weight: normal;
+	color: #505050;
+}

@@ -1,0 +1,4 @@
+
+ [2011-05-26 12:17:41] [ MessageList ] 11b921ef080f GET ?count=1&limit=0,100&act=mt&usr=user&pwd=pass&from=20100101&to=20110310
+ [2011-05-26 12:17:41] [ MessageList ] 11b921ef080f GET Invalid user or password
+ [2011-05-26 12:18:17] [ MessageList ] a64c94baaf36 GET ?count=1&limit=0,100&act=mt&usr=tapia&pwd=kara.kool&from=20100101&to=20110310
